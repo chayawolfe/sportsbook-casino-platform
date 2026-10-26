@@ -1,0 +1,101 @@
+/* scrollbar */
+@import 'simplebar-react/dist/simplebar.min.css';
+
+/* lazy image */
+@import 'react-lazy-load-image-component/src/effects/blur.css';
+
+.sample-slider {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@keyframes ping {
+
+    75%,
+    to {
+        transform: scale(2);
+        opacity: 0;
+    }
+}
+
+.animate-ping {
+    animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+
+.color_icon_img {
+    background: url(/assets/icons/icons-1.webp) left top no-repeat;
+    width: 32px;
+    height: 32px;
+}
+
+.color_icon_img.casino {
+    background-position: -96px 0px;
+}
+
+.color_icon_img.sports {
+    background-position: -160px -160px;
+}
+
+.color_icon_img.lottery {
+    background-position: -32px -128px;
+}
+
+.color_icon_img.racing {
+    background-position: -32px -160px;
+}
+
+.color_icon_img.updown {
+    background-position: -192px -96px;
+}
+
+.color_icon_img.bingo {
+    background-position: -64px -32px;
+}
+
+.MuiLink-root:hover {
+    text-decoration: none !important;
+}
+
+.custom-dot {
+    display: inline-block;
+    width: 24px;
+    height: 6px;
+    background: #222;
+    border-radius: 3px;
+    margin: 0 2px;
+    position: relative;
+    overflow: hidden;
+    opacity: 0.4;
+    transition: opacity 0.2s;
+}
+
+.custom-dot {
+    width: 30px;
+    height: 30px;
+    border: 2px solid blue;
+    border-radius: 50%;
+    /* Makes it a circle */
+    color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.custom-dot:hover {
+    background-color: blue;
+    color: white;
+}
+
+.slick-list {
+    margin: 0 -10px;
+    overflow: hidden;
+}
+
+.slick-slide>div {
+    margin: 0 10px;
+}

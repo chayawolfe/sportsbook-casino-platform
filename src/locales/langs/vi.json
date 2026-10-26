@@ -1,0 +1,473 @@
+{
+  "start": "Bắt đầu",
+  "comingSoon": "Sắp ra mắt",
+  "your-games": "Trò chơi của bạn",
+  "deposit": "Nạp tiền",
+  "language": "Ngôn ngữ",
+  "search": "Tìm kiếm",
+  "wallet": "Ví",
+  "withdraw": "Rút tiền",
+  "transactions": "Giao dịch",
+  "bet_history": "Lịch sử cược",
+  "vip_club": "Câu lạc bộ VIP",
+  "my_profile": "Hồ sơ của tôi",
+  "global_settings": "Cài đặt chung",
+  "log_out": "Đăng xuất",
+  "login": "Đăng nhập",
+  "register": "Đăng ký",
+  "dark": "Tối",
+  "light": "Sáng",
+  "lobby": "Sảnh",
+  "sports": "Thể thao",
+  "Casino": "Sòng bạc",
+  "Slots": "Máy đánh bạc",
+  "Live Casino": "Sòng bạc trực tiếp",
+  "Sport Book": "Cá cược thể thao",
+  "Fishing": "Câu cá",
+  "Poker": "Poker",
+  "lottery": "Xổ số",
+  "cock_fighting": "Đá gà",
+  "others": "Khác",
+  "live_casino_premium": "Sòng bạc trực tiếp cao cấp",
+  "crypto_online_casino": "Sòng bạc trực tuyến tiền mã hóa",
+  "help_us_improve_your_experience": "Giúp chúng tôi cải thiện trải nghiệm của bạn",
+  "show_more": "Xem thêm",
+  "stay_untamed": "Hãy tự do",
+  "signup&get_welcome_bonus": "Đăng ký & Nhận thưởng chào mừng",
+  "exclusive_VIP_bonus": "Tiền thưởng VIP độc quyền",
+  "recent_big_wins": "Chiến thắng lớn gần đây",
+  "all": "Tất cả",
+  "recommended_games": "Trò chơi được đề xuất",
+  "latest_round&_race": "Vòng & Cuộc đua mới nhất",
+  "no_items_to_display": "Không có mục nào để hiển thị",
+  "game_providers": "Nhà cung cấp trò chơi",
+  "crypto": "Tiền mã hóa",
+  "fiat": "Tiền pháp định",
+  "cancel": "Hủy",
+  "submit": "Gửi",
+  "amount": "Số tiền",
+  "please_enter_a_valid_positive_number": "Vui lòng nhập số dương hợp lệ",
+  "account_info": "Thông tin tài khoản",
+  "security": "Bảo mật",
+  "preferences": "Tùy chọn",
+  "personal_verification": "Xác minh cá nhân",
+  "profile_info": "Thông tin hồ sơ",
+  "username": "Tên đăng nhập",
+  "edit": "Chỉnh sửa",
+  "contact_info": "Thông tin liên hệ",
+  "add": "Thêm",
+  "connect": "Kết nối",
+  "connected": "Đã kết nối",
+  "account_connections": "Kết nối tài khoản",
+  "not_connected": "Chưa kết nối",
+  "disconnect": "Ngắt kết nối",
+  "set_password": "Đặt mật khẩu",
+  "create_your_own_password_for_security": "Tạo mật khẩu riêng để bảo mật.",
+  "security_setup": "Cài đặt bảo mật",
+  "current_password": "Mật khẩu hiện tại",
+  "password": "Mật khẩu",
+  "confirm_password": "Xác nhận mật khẩu",
+  "verify": "Xác minh",
+  "sessions": "Phiên đăng nhập",
+  "device": "Thiết bị",
+  "location": "Vị trí",
+  "ip_address": "Địa chỉ IP",
+  "last_used": "Lần sử dụng cuối",
+  "action": "Hành động",
+  "remove": "Xóa",
+  "e-mail_verification": "Xác minh email",
+  "verify_your_email_address_is_valid_and_accessible_by_you.": "Xác minh địa chỉ email của bạn hợp lệ và bạn có thể truy cập.",
+  "phone_number": "Số điện thoại",
+  "verify_your_phone_number_and_you_can_use_the_phone_as_your_second_login_method": "Xác minh số điện thoại của bạn và bạn có thể sử dụng điện thoại làm phương thức đăng nhập thứ hai.",
+  "verify_your_phone_number_is_valid_and_accessible_by_you.": "Xác minh số điện thoại của bạn hợp lệ và bạn có thể truy cập.",
+  "phone_verification": "Xác minh điện thoại",
+  "enter_your_new_phone_number_below_to_receive_a_verification_code.": "Nhập số điện thoại mới của bạn bên dưới để nhận mã xác minh.",
+  "phone_number_verification": "Xác minh số điện thoại",
+  "email_verification": "Xác minh email",
+  "please_enter_and_verify_your_email_below": "Vui lòng nhập và xác minh email của bạn bên dưới",
+  "global_setting": "CÀI ĐẶT CHUNG",
+  "account_preferences": "Tùy chọn tài khoản",
+  "view_in_currency": "Xem theo đơn vị tiền tệ",
+  "change_language": "Thay đổi ngôn ngữ",
+  "display_mode": "Chế độ hiển thị",
+  "privacy_preferences": "Tùy chọn quyền riêng tư",
+  "hide_my_username_from_public_lists": "Ẩn tên đăng nhập khỏi danh sách công khai",
+  "max_bet_alert": "Cảnh báo cược tối đa",
+  "email_notifications": "Thông báo email",
+  "receive_deposit_successful_email": "Nhận email khi nạp tiền thành công",
+  "receive_withdraw_successful_email": "Nhận email khi rút tiền thành công",
+  "marketing": "Tiếp thị",
+  "receive_marketing_promotions_by_email": "Nhận khuyến mãi tiếp thị qua email",
+  "select_the_desired_currency_to_display. the_currencies_will_be_shown_in_approximated_values": "Chọn đơn vị tiền tệ muốn hiển thị. Các đơn vị sẽ được hiển thị dưới dạng giá trị ước lượng.",
+  "basic_verification": "Xác minh cơ bản",
+  "total_balance": "Tổng số dư",
+  "deposit_balance": "Số dư nạp tiền",
+  "bonus_balance": "Số dư tiền thưởng",
+  "balance": "Số dư",
+  "transaction": "Giao dịch",
+  "select_network": "Chọn mạng lưới",
+  "select_currency": "Chọn loại tiền",
+  "currency": "Tiền tệ",
+  "no_results_found": "Không tìm thấy kết quả",
+  "how_to_deposit_crypto?": "Cách nạp tiền mã hóa?",
+  "copy_address": "Sao chép địa chỉ",
+  "signUpGetUpTo": "Đăng ký & Nhận lên đến",
+  "inCasinoOrSports": "trong Casino hoặc Thể thao",
+  "joinNow": "Tham gia ngay",
+  "casino": "Casino",
+  "latestBet": "Cược mới nhất",
+  "highRoller": "Người chơi lớn",
+  "wagerContest": "Cuộc thi đặt cược",
+  "player": "Người chơi",
+  "betAmount": "Số tiền cược",
+  "multiplier": "Bội số",
+  "profit": "Lợi nhuận",
+  "hidden": "Ẩn",
+  "bonus_list": "Danh sách tiền thưởng",
+  "wallet_address": "Địa chỉ ví",
+  "fiat_currency": "Tiền pháp định",
+  "token_type": "Loại token",
+  "payout_method": "Phương thức thanh toán",
+  "created_at": "Ngày tạo",
+  "status": "Trạng thái",
+  "duration": "Thời gian",
+  "pending": "Đang chờ",
+  "success": "Thành công",
+  "payout": "Thanh toán",
+  "declined": "Từ chối",
+  "failed": "Thất bại",
+  "Past 60 days": "60 ngày qua",
+  "Past 30 days": "30 ngày qua",
+  "Past 7 days": "7 ngày qua",
+  "Past 1 day": "1 ngày qua",
+  "Custom": "Tùy chỉnh",
+  "type": "Loại",
+  "time": "Thời gian",
+  "fiat_deposit_issues_or_disputes": "Vấn đề hoặc tranh chấp tiền gửi fiat",
+  "win": "Thắng",
+  "bet": "Cược",
+  "menu": "Menu",
+  "explore": "Khám phá",
+  "helpCenter": "Trung tâm trợ giúp",
+  "bonus": {
+    "title": "Tiền thưởng",
+    "claim": "Yêu cầu",
+    "table": {
+      "name": "Tên tiền thưởng",
+      "amount": "Số tiền",
+      "goal": "Mục tiêu",
+      "process": "Quy trình",
+      "status": "Trạng thái",
+      "type": "Loại",
+      "expiryDate": "Ngày hết hạn",
+      "action": "Hành động"
+    }
+  },
+  "footer": {
+    "aboutBetthrob": "Về Betthrob",
+    "termsPolicy": "Điều khoản & Chính sách",
+    "copyright": "© 2025 Betthrob. Bảo lưu mọi quyền. Không phần nào của trang web này hoặc nội dung của nó được phép sao chép, phân phối hoặc truyền tải dưới bất kỳ hình thức hoặc phương tiện nào mà không có sự cho phép bằng văn bản trước của Betthrob, trừ khi được phép bởi luật hiện hành.",
+    "description": "Betthrob là nền tảng cá cược trực tuyến tập trung vào cá cược thể thao và trò chơi casino, mang đến cho người chơi trải nghiệm giải trí đầy kịch tính. Nền tảng cung cấp nhiều tùy chọn cá cược đa dạng, bao gồm các môn thể thao như bóng đá, bóng rổ và quần vợt, đồng thời có kho trò chơi casino phong phú như máy đánh bạc, poker và roulette, đáp ứng sở thích khác nhau của người chơi. Betthrob chú trọng đến trải nghiệm người dùng, hỗ trợ nhiều phương thức thanh toán và cung cấp dịch vụ hỗ trợ khách hàng 24/7 để đảm bảo trải nghiệm cá cược an toàn và thuận tiện mọi lúc."
+  },
+  "auth": {
+    "signIn": "Đăng nhập",
+    "signUp": "Đăng ký",
+    "emailPhone": "Email / Số điện thoại",
+    "username": "Tên người dùng",
+    "password": "Mật khẩu",
+    "selectCurrency": "Chọn loại tiền tệ",
+    "agreeTerms": "Tôi đồng ý với Thỏa thuận người dùng và xác nhận tôi ít nhất 18 tuổi",
+    "haveAccount": "Đã có tài khoản?",
+    "emailPhoneRequired": "Email / Số điện thoại là bắt buộc",
+    "usernameRequired": "Tên người dùng là bắt buộc",
+    "passwordRequired": "Mật khẩu là bắt buộc",
+    "currencyRequired": "Cần chọn loại tiền tệ",
+    "aggrementRequired": "Bạn cần đồng ý với điều khoản",
+    "signInWith": "Đăng nhập trực tiếp bằng",
+    "forgotPassword": "Quên mật khẩu?",
+    "newToBethrob": "Mới sử dụng BetThrob?",
+    "createAccount": "Tạo tài khoản"
+  },
+  "payment": {
+    "minBRL": "Số tiền tối thiểu là 100 BRL",
+    "deposit": "Nạp tiền",
+    "crypto": "Tiền mã hóa",
+    "fiat": "Tiền pháp định",
+    "selectNetwork": "Chọn mạng lưới",
+    "selectCurrency": "Chọn loại tiền tệ",
+    "noResultsFound": "Không tìm thấy kết quả",
+    "enterValidNumber": "Vui lòng nhập một số dương hợp lệ",
+    "copyAddress": "Sao chép địa chỉ",
+    "searchToken": "Tìm kiếm token",
+    "wallet": "Ví"
+  },
+  "common": {
+    "amount": "Số tiền",
+    "cancel": "Hủy",
+    "submit": "Gửi",
+    "currency": "Tiền tệ",
+    "status": "Trạng thái",
+    "date": "Ngày"
+  },
+  "game": {
+    "title": "Trò chơi",
+    "playGame": "Chơi game"
+  },
+  "freeSpin": {
+    "luckySpin": "Vòng quay may mắn",
+    "title": {
+      "nextSpin": "LƯỢT QUAY TIẾP THEO CỦA BẠN",
+      "spinToWin": "QUAY ĐỂ TRÚNG"
+    },
+    "bonus": {
+      "title": "Thưởng quay",
+      "total": "TỔNG THƯỞNG QUAY",
+      "win": "Chiến thắng",
+      "username": "Tên người dùng"
+    },
+    "table": {
+      "username": "Tên người dùng",
+      "time": "Thời gian",
+      "prize": "Phần thưởng",
+      "status": "Trạng thái"
+    },
+    "status": {
+      "waiting": "Đang chờ",
+      "claimed": "Đã nhận"
+    }
+  },
+  "dashboard": {
+    "invite": {
+      "title": "Mời bạn bè để nhận",
+      "referral": {
+        "rewards": "Phần thưởng giới thiệu",
+        "commission": "Phần thưởng hoa hồng"
+      },
+      "terms": {
+        "title": "Điều khoản và Điều kiện Giới thiệu",
+        "description": "Nhận 25% hoa hồng từ khoản cược của họ. Luôn có hoa hồng ổn định, bất kể thắng thua, tại Casino và Kèo thể thao của chúng tôi. Bắt đầu kiếm ngay!"
+      }
+    },
+    "referral": {
+      "link": "Liên kết Giới thiệu",
+      "code": "Mã Giới thiệu",
+      "share": "Chia sẻ qua mạng xã hội –",
+      "terms": {
+        "title": "Điều khoản và Điều kiện Giới thiệu",
+        "description": "Nhận 25% hoa hồng từ khoản cược của họ. Luôn có hoa hồng ổn định, bất kể thắng thua, tại Casino và Kèo thể thao của chúng tôi. Bắt đầu kiếm ngay!"
+      }
+    },
+    "stats": {
+      "totalReward": "Tổng Phần thưởng",
+      "totalFriends": "Tổng số bạn bè",
+      "referralRewards": "Phần thưởng giới thiệu",
+      "commissionRewards": "Phần thưởng hoa hồng"
+    },
+    "activities": {
+      "title": "Hoạt động Phần thưởng",
+      "table": {
+        "code": "Mã",
+        "totalReferrals": "Tổng lượt giới thiệu",
+        "totalRewardAmount": "Tổng tiền phần thưởng",
+        "totalRewards": "Tổng số phần thưởng",
+        "visitCount": "Số lượt truy cập",
+        "description": "Mô tả"
+      }
+    },
+    "liveRewards": {
+      "title": "Phần thưởng trực tiếp",
+      "totalToDate": "Tổng phần thưởng đã gửi đến nay"
+    },
+    "affiliate": {
+      "title": "Tìm hiểu thêm về",
+      "program": "chương trình liên kết",
+      "description": "Nếu bạn có lượng lớn người theo dõi, chúng tôi có điều kiện đặc biệt để tùy chỉnh chương trình giới thiệu cho bạn! Nếu bạn mời người chơi mà tổng cược đạt 1 tỷ đô la hoặc hơn, bạn sẽ có sòng bạc tùy chỉnh riêng! Bạn có thể tạo website casino với tên miền và phong cách thiết kế của bạn. Để biết thêm chi tiết, vui lòng liên hệ với chúng tôi.",
+      "email": {
+        "title": "Nhập email của bạn",
+        "placeholder": "Mail@mail.com"
+      },
+      "setup": {
+        "highlight": "Bạn có thể tạo website casino",
+        "domain": "với tên miền và phong cách thiết kế của bạn.",
+        "contact": "để biết thêm chi tiết, vui lòng liên hệ với chúng tôi"
+      }
+    },
+    "faq": {
+      "title": "Câu hỏi thường gặp",
+      "items": {
+        "system": {
+          "title": "Hệ thống giới thiệu hoạt động như thế nào?",
+          "content": "Khi bạn chia sẻ liên kết giới thiệu với bạn bè, người thân hoặc quảng cáo liên kết đó và có người đăng ký qua liên kết, họ trở thành người bạn giới thiệu, mang lại hoa hồng và phần thưởng bổ sung khi họ chơi tại {{brand}}."
+        },
+        "earnings": {
+          "title": "Tôi có thể kiếm được bao nhiêu từ giới thiệu?",
+          "content": "Khi bạn chia sẻ liên kết giới thiệu với bạn bè, người thân hoặc quảng cáo liên kết đó và có người đăng ký qua liên kết, họ trở thành người bạn giới thiệu, mang lại hoa hồng và phần thưởng bổ sung khi họ chơi tại {{brand}}."
+        },
+        "usdReward": {
+          "title": "Phần thưởng USD là gì và nó hoạt động thế nào?",
+          "content": "Khi bạn chia sẻ liên kết giới thiệu với bạn bè, người thân hoặc quảng cáo liên kết đó và có người đăng ký qua liên kết, họ trở thành người bạn giới thiệu, mang lại hoa hồng và phần thưởng bổ sung khi họ chơi tại {{brand}}."
+        },
+        "banners": {
+          "title": "Có banner nào để quảng cáo không?",
+          "content": "Khi bạn chia sẻ liên kết giới thiệu với bạn bè, người thân hoặc quảng cáo liên kết đó và có người đăng ký qua liên kết, họ trở thành người bạn giới thiệu, mang lại hoa hồng và phần thưởng bổ sung khi họ chơi tại {{brand}}."
+        },
+        "audience": {
+          "title": "Tôi có lượng lớn khán giả, làm sao để nhận ưu đãi đặc biệt?",
+          "content": "Khi bạn chia sẻ liên kết giới thiệu với bạn bè, người thân hoặc quảng cáo liên kết đó và có người đăng ký qua liên kết, họ trở thành người bạn giới thiệu, mang lại hoa hồng và phần thưởng bổ sung khi họ chơi tại {{brand}}."
+        },
+        "links": {
+          "title": "Tôi có thể tạo bao nhiêu link giới thiệu nếu có nhiều website/tài khoản?",
+          "content": "Khi bạn chia sẻ liên kết giới thiệu với bạn bè, người thân hoặc quảng cáo liên kết đó và có người đăng ký qua liên kết, họ trở thành người bạn giới thiệu, mang lại hoa hồng và phần thưởng bổ sung khi họ chơi tại {{brand}}."
+        },
+        "data": {
+          "title": "Tôi có thể xem dữ liệu của người tôi giới thiệu không?",
+          "content": "Khi bạn chia sẻ liên kết giới thiệu với bạn bè, người thân hoặc quảng cáo liên kết đó và có người đăng ký qua liên kết, họ trở thành người bạn giới thiệu, mang lại hoa hồng và phần thưởng bổ sung khi họ chơi tại {{brand}}."
+        },
+        "tips": {
+          "title": "Tôi có thể gửi tiền tip hoặc thưởng cho người mình giới thiệu không?",
+          "content": "Khi bạn chia sẻ liên kết giới thiệu với bạn bè, người thân hoặc quảng cáo liên kết đó và có người đăng ký qua liên kết, họ trở thành người bạn giới thiệu, mang lại hoa hồng và phần thưởng bổ sung khi họ chơi tại {{brand}}."
+        }
+      }
+    }
+  },
+  "download": {
+    "banner": {
+      "title": "Gói banner",
+      "description": "Gói đa ngôn ngữ bao gồm sự kiện, banner động và nhiều hơn nữa...",
+      "button": "Tải xuống (200 MB)"
+    },
+    "graphics": {
+      "title": "Gói đồ họa",
+      "description": "Các thành phần thiết kế web bao gồm Coco, logo, yếu tố trò chơi và tài nguyên UI",
+      "button": "Tải xuống (21.3 MB)"
+    }
+  },
+  "rateRule": {
+    "commission": {
+      "title": "Tỷ lệ phần thưởng hoa hồng",
+      "casino": {
+        "title": "Casino",
+        "formula": "Cược × 1 % × Tỷ lệ hoa hồng × 28 %"
+      },
+      "thirdParty": {
+        "title": "Slot bên thứ ba, Casino Trực tiếp",
+        "formula": "Cược × 1 % × Tỷ lệ hoa hồng × 60 %"
+      },
+      "sports": {
+        "title": "Tất cả môn thể thao",
+        "formula": "Cược × 1 % × Tỷ lệ hoa hồng × 100 %"
+      }
+    },
+    "calculator": {
+      "title": "Máy tính hoa hồng",
+      "currency": "USD",
+      "casino": "Casino",
+      "commissionRate": "Tỷ lệ hoa hồng",
+      "game": "Trò chơi",
+      "originalGames": "Trò chơi gốc"
+    },
+    "referral": {
+      "title": "Cách nhận phần thưởng giới thiệu",
+      "steps": {
+        "share": {
+          "title": "Chia sẻ đến bạn bè",
+          "content": "Chia sẻ liên kết hoặc mã giới thiệu cho bạn bè"
+        },
+        "get": {
+          "title": "Nhận ${{amount}}",
+          "content": "Phần thưởng của bạn sẽ bị khóa tạm thời"
+        },
+        "level": {
+          "title": "Nâng cấp cấp độ & nhận",
+          "content": "Cấp độ VIP của người bạn sẽ mở khóa phần thưởng của bạn"
+        }
+      },
+      "table": {
+        "level": "Cấp độ người bạn",
+        "wager": "Tổng cược",
+        "unlock": "Số tiền mở khóa"
+      }
+    }
+  },
+  "referralCodes": {
+    "stats": {
+      "codes": "Mã giới thiệu đã tạo",
+      "friends": "Bạn bè"
+    },
+    "actions": {
+      "createCode": "Tạo mã"
+    },
+    "tabs": {
+      "referralCode": "Mã giới thiệu",
+      "friends": "Bạn bè"
+    },
+    "table": {
+      "name": "Tên",
+      "code": "Mã",
+      "link": "Liên kết",
+      "commissionRate": "Tỷ lệ hoa hồng",
+      "dateCreated": "Ngày tạo",
+      "referrals": "Người giới thiệu"
+    }
+  },
+  "reward": {
+    "commission": {
+      "title": "Phần thưởng hoa hồng khả dụng",
+      "totalReceived": "Tổng đã nhận: {{amount}}"
+    },
+    "referral": {
+      "title": "Phần thưởng giới thiệu khả dụng",
+      "totalReceived": "Tổng đã nhận: {{amount}}",
+      "lockedRewards": "Phần thưởng bị khóa: {{amount}}"
+    },
+    "actions": {
+      "withdraw": "Rút về ví",
+      "myWallets": "Ví của tôi"
+    },
+    "tabs": {
+      "commission": "Hoa hồng",
+      "referral": "Giới thiệu",
+      "rules": "Quy tắc",
+      "history": "Lịch sử"
+    },
+    "table": {
+      "username": "Tên người dùng",
+      "commissionRate": "Tỷ lệ hoa hồng",
+      "totalBet": "Tổng cược",
+      "registrationDate": "Ngày đăng ký",
+      "totalCommission": "Tổng hoa hồng",
+      "currency": "Tiền tệ",
+      "vipLevel": "Cấp độ VIP",
+      "code": "Mã",
+      "earned": "Đã kiếm được"
+    }
+  },
+  "swapModal": {
+    "title": "Ví của tôi",
+    "walletTypes": {
+      "commission": "Phần thưởng hoa hồng",
+      "referral": "Phần thưởng giới thiệu"
+    },
+    "amount": "Số tiền",
+    "submit": "Gửi"
+  },
+  "dropMenu": {
+    "wallet": "Ví",
+    "deposit": "Nạp tiền",
+    "withdraw": "Rút tiền",
+    "bonus_list": "Danh sách thưởng",
+    "transactions": "Giao dịch",
+    "bet_history": "Lịch sử cược",
+    "vip_club": "Câu lạc bộ VIP",
+    "my_profile": "Hồ sơ của tôi",
+    "affiliate": "Đối tác",
+    "global_settings": "Cài đặt chung",
+    "log_out": "Đăng xuất"
+  },
+  "vip": {
+  "viewLevelUpDetail": "Xem chi tiết thăng cấp",
+  "exclusiveVipBonus": "Thưởng VIP độc quyền",
+  "discoverGamingExperience": "Khám phá trải nghiệm chơi game tuyệt đỉnh"
+}
+
+}

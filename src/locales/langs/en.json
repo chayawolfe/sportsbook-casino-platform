@@ -1,0 +1,473 @@
+{
+  "start": "Start",
+  "comingSoon": "Coming Soon",
+  "your-games": "Your Games",
+  "deposit": "Deposit",
+  "language": "Language",
+  "search": "Search",
+  "wallet": "Wallet",
+  "withdraw": "Withdraw",
+  "transactions": "Transactions",
+  "bet_history": "Bet History",
+  "vip_club": "VIP Club",
+  "my_profile": "My Profile",
+  "global_settings": "Global Settings",
+  "log_out": "Log Out",
+  "login": "Login",
+  "register": "Register",
+  "already_have_an_account": "Already have an account?",
+  "dark": "Dark",
+  "light": "Light",
+  "lobby": "Lobby",
+  "sports": "Sports",
+  "Casino": "Casino",
+  "Slots": "Slots",
+  "Live Casino": "Live Casino",
+  "Sport Book": "Sport Book",
+  "Fishing": "Fishing",
+  "Poker": "Poker",
+  "lottery": "Lottery",
+  "cock_fighting": "Cock Fighting",
+  "others": "Others",
+  "live_casino_premium": "Live Casino Premium",
+  "crypto_online_casino": "Crypto Online Casino",
+  "help_us_improve_your_experience": "Help us improve your experience",
+  "show_more": "Show more",
+  "stay_untamed": "Stay Untamed",
+  "signup&get_welcome_bonus": "Sign Up & Get Welcome Bonus",
+  "exclusive_VIP_bonus": "Exclusive VIP Bonus",
+  "recent_big_wins": "Recent Big Wins",
+  "all": "All",
+  "recommended_games": "Recommended Games",
+  "latest_round&_race": "Latest round & Race",
+  "no_items_to_display": "No items to display",
+  "game_providers": "Game Providers",
+  "crypto": "Crypto",
+  "fiat": "Fiat",
+  "cancel": "Cancel",
+  "submit": "Submit",
+  "amount": "Amount",
+  "please_enter_a_valid_positive_number": "Please enter a valid positive number",
+  "account_info": "Account Info",
+  "security": "Security",
+  "preferences": "Preferences",
+  "personal_verification": "Personal Verification",
+  "profile_info": "Profile Info",
+  "username": "Username",
+  "edit": "Edit",
+  "contact_info": "Contact Info",
+  "add": "Add",
+  "connect": "Connect",
+  "connected": "Connected",
+  "account_connections": "Account Connections",
+  "not_connected": "Not Connected",
+  "disconnect": "Disconnect",
+  "set_password": "Set Password",
+  "create_your_own_password_for_security": "Create your own password for security.",
+  "security_setup": "Security Setup",
+  "current_password": "Current Password",
+  "password": "Password",
+  "confirm_password": "Confirm Password",
+  "verify": "Verify",
+  "sessions": "Sessions",
+  "device": "Device",
+  "location": "Location",
+  "ip_address": "IP Address",
+  "last_used": "Last Used",
+  "action": "Action",
+  "remove": "Remove",
+  "e-mail_verification": "E-mail Verification",
+  "verify_your_email_address_is_valid_and_accessible_by_you.": "Verify your email address is valid and accessible by you.",
+  "phone_number": "Phone Number",
+  "verify_your_phone_number_and_you_can_use_the_phone_as_your_second_login_method": "Verify your phone number and you can use the phone as your second login method.",
+  "verify_your_phone_number_is_valid_and_accessible_by_you.": "Verify your phone number is valid and accessible by you.",
+  "phone_verification": "Phone Verification",
+  "enter_your_new_phone_number_below_to_receive_a_verification_code.": "Enter your new phone number below to receive a verification code.",
+  "phone_number_verification": "Phone Number Verification",
+  "email_verification": "Email Verification",
+  "please_enter_and_verify_your_email_below": "Please enter and verify your email below",
+  "global_setting": "GLOBAL SETTINGS",
+  "account_preferences": "Account Preferences",
+  "view_in_currency": "View in currency",
+  "change_language": "Change Language",
+  "display_mode": "Display mode",
+  "privacy_preferences": "Privacy Preferences",
+  "hide_my_username_from_public_lists": "Hide my username from public lists",
+  "max_bet_alert": "Max bet alert",
+  "email_notifications": "Email Notifications",
+  "receive_deposit_successful_email": "Receive deposit successful email",
+  "receive_withdraw_successful_email": "Receive withdraw successful email",
+  "marketing": "Marketing",
+  "receive_marketing_promotions_by_email": "Receive marketing promotions by Email",
+  "select_the_desired_currency_to_display. the_currencies_will_be_shown_in_approximated_values": "Select the desired currency to display. The Currencies will be shown in approximated values.",
+  "basic_verification": "Basic Verification",
+  "total_balance": "Total Balance",
+  "deposit_balance": "Deposit Balance",
+  "bonus_balance": "Bonus Balance",
+  "balance": "Balance",
+  "transaction": "Transaction",
+  "select_network": "Select Network",
+  "select_currency": "Select Currency",
+  "currency": "Currency",
+  "no_results_found": "No results found",
+  "how_to_deposit_crypto?": "How to deposit crypto?",
+  "copy_address": "Copy Address",
+  "signUpGetUpTo": "Sign up & Get Up To",
+  "inCasinoOrSports": "in Casino or Sports",
+  "joinNow": "Join Now",
+  "casino": "Casino",
+  "latestBet": "Latest Bet",
+  "highRoller": "High Roller",
+  "wagerContest": "Wager Contest",
+  "player": "Player",
+  "betAmount": "Bet Amount",
+  "multiplier": "Multiplier",
+  "profit": "Profit",
+  "hidden": "Hidden",
+  "bonus_list": "Bonus List",
+  "wallet_address": "Wallet Address",
+  "fiat_currency": "Fiat Currency",
+  "token_type": "Token Type",
+  "payout_method": "Payout Method",
+  "created_at": "Created At",
+  "status": "Status",
+  "duration": "Duration",
+  "pending": "Pending",
+  "success": "Success",
+  "payout": "Payout",
+  "declined": "Declined",
+  "failed": "Failed",
+  "Past 60 days": "Past 60 days",
+  "Past 30 days": "Past 30 days",
+  "Past 7 days": "Past 7 days",
+  "Past 1 day": "Past 1 day",
+  "Custom": "Custom",
+  "type": "Type",
+  "time": "Time",
+  "fiat_deposit_issues_or_disputes": "Fiat Deposit issues or Disputes",
+  "win": "Win",
+  "bet": "Bet",
+  "menu": "Menu",
+  "explore": "Explore",
+  "helpCenter": "Help Center",
+  "bonus": {
+    "title": "Bonus",
+    "claim": "Claim",
+    "table": {
+      "name": "Bonus Name",
+      "amount": "Amount",
+      "goal": "Goal",
+      "process": "Process",
+      "status": "Status",
+      "type": "Type",
+      "expiryDate": "Expiry Date",
+      "action": "Action"
+    }
+  },
+  "footer": {
+    "aboutBetthrob": "About Betthrob",
+    "termsPolicy": "Terms & Policy",
+    "copyright": "© 2025 Betthrob. All rights reserved. No part of this website or its content may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of Betthrob, except as permitted by applicable law.",
+    "description": "Betthrob is an online gambling platform, focusing on sports betting and casino games, offering players an exciting entertainment experience. The platform provides a variety of betting options, covering sports like football, basketball, and tennis, while also featuring a rich selection of casino games such as slots, poker, and roulette, catering to different player preferences. It emphasizes user experience, supports multiple payment methods, and offers 24/7 customer support to ensure a safe and convenient gambling service at all times."
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "emailPhone": "Email / Phone Number",
+    "username": "Username",
+    "password": "Password",
+    "selectCurrency": "Select currency",
+    "agreeTerms": "I agree to the User Agreement & confirm I am at least 18 years old",
+    "haveAccount": "Already have an account?",
+    "emailPhoneRequired": "Email / Phone is required",
+    "usernameRequired": "Username is required",
+    "passwordRequired": "Password is required",
+    "currencyRequired": "Currency is required",
+    "aggrementRequired": "Your agreement is required",
+    "signInWith": "Log in directly with",
+    "forgotPassword": "Forgot your password?",
+    "newToBethrob": "New to BetThrob?",
+    "createAccount": "Create Account"
+  },
+  "payment": {
+    "minBRL": "Min amount is 100 BRL",
+    "deposit": "Deposit",
+    "crypto": "Crypto",
+    "fiat": "Fiat",
+    "selectNetwork": "Select Network",
+    "selectCurrency": "Select Currency",
+    "noResultsFound": "No results found",
+    "enterValidNumber": "Please enter a valid positive number",
+    "copyAddress": "Copy Address",
+    "searchToken": "Search token",
+    "wallet": "Wallet"
+  },
+  "common": {
+    "amount": "Amount",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "currency": "Currency",
+    "status": "Status",
+    "date": "Date"
+  },
+  "game": {
+    "title": "Game",
+    "playGame": "Play Game"
+  },
+  "freeSpin": {
+    "luckySpin": "Lucky Spin",
+    "title": {
+      "nextSpin": "YOUR NEXT SPIN",
+      "spinToWin": "SPIN TO WIN"
+    },
+    "bonus": {
+      "title": "Spin Bonus",
+      "total": "SPIN BONUS TOTAL",
+      "win": "Win",
+      "username": "User Name"
+    },
+    "table": {
+      "username": "User Name",
+      "time": "Time",
+      "prize": "Prize",
+      "status": "Status"
+    },
+    "status": {
+      "waiting": "Waiting",
+      "claimed": "Claimed"
+    }
+  },
+  "dashboard": {
+    "invite": {
+      "title": "Invite a Friend to Get",
+      "referral": {
+        "rewards": "Referral Rewards",
+        "commission": "Commission Rewards"
+      },
+      "terms": {
+        "title": "Referral Terms & Conditions",
+        "description": "Get 25% commission on their wagers. Enjoy consistent commissions, whether they win or lose, in our Casino and Sportsbook. Start earning now!"
+      }
+    },
+    "referral": {
+      "link": "Referral Link",
+      "code": "Referral Code",
+      "share": "Share via socials -",
+      "terms": {
+        "title": "Referral Terms & Conditions",
+        "description": "Get 25% commission on their wagers. Enjoy consistent commissions, whether they win or lose, in our Casino and Sportsbook. Start earning now!"
+      }
+    },
+    "stats": {
+      "totalReward": "Total Reward",
+      "totalFriends": "Total Friends",
+      "referralRewards": "Referral Rewards",
+      "commissionRewards": "Commission Rewards"
+    },
+    "activities": {
+      "title": "Rewards Activities",
+      "table": {
+        "name": "Name",
+        "code": "Code",
+        "totalReferrals": "Total Referrals",
+        "totalCommission": "Total Commission",
+        "totalRewards": "Total Rewards",
+        "createdAt": "CreatedAt"
+      }
+    },
+    "liveRewards": {
+      "title": "Live Rewards",
+      "totalToDate": "Total Rewards Sent To-Date"
+    },
+    "affiliate": {
+      "title": "Learn more about our",
+      "program": "Affiliate program",
+      "description": "If you have a large audience and followers. We have special conditions for you to customize your referral program! If you can invite players and their wager amount reaches a billion dollars and above, you will get your own customized casino! You can set up a casino website with your domain and design style. for more details, please contact Us",
+      "email": {
+        "title": "Enter your email",
+        "placeholder": "Mail@mail.com"
+      },
+      "setup": {
+        "highlight": "You can set up a casino website",
+        "domain": "with your domain and design style.",
+        "contact": "for more details, please contact Us"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": {
+        "system": {
+          "title": "How does the referral system work?",
+          "content": "When you share your referral link with any of your friends, family or advertise the link and a player signup at our site that player becomes your referral and they will earn you commissions & extra rewards by playing at {{brand}}."
+        },
+        "earnings": {
+          "title": "How much can I earn from my referral?",
+          "content": "When you share your referral link with any of your friends, family or advertise the link and a player signup at our site that player becomes your referral and they will earn you commissions & extra rewards by playing at {{brand}}."
+        },
+        "usdReward": {
+          "title": "What is USD reward and how does it work?",
+          "content": "When you share your referral link with any of your friends, family or advertise the link and a player signup at our site that player becomes your referral and they will earn you commissions & extra rewards by playing at {{brand}}."
+        },
+        "banners": {
+          "title": "Are there any banners I can use to advertise?",
+          "content": "When you share your referral link with any of your friends, family or advertise the link and a player signup at our site that player becomes your referral and they will earn you commissions & extra rewards by playing at {{brand}}."
+        },
+        "audience": {
+          "title": "I have big audience how I can get special deals?",
+          "content": "When you share your referral link with any of your friends, family or advertise the link and a player signup at our site that player becomes your referral and they will earn you commissions & extra rewards by playing at {{brand}}."
+        },
+        "links": {
+          "title": "How many affiliate links can I create if I have different websites/accounts?",
+          "content": "When you share your referral link with any of your friends, family or advertise the link and a player signup at our site that player becomes your referral and they will earn you commissions & extra rewards by playing at {{brand}}."
+        },
+        "data": {
+          "title": "Can I see the data of my referral?",
+          "content": "When you share your referral link with any of your friends, family or advertise the link and a player signup at our site that player becomes your referral and they will earn you commissions & extra rewards by playing at {{brand}}."
+        },
+        "tips": {
+          "title": "Can I send tip or reward to my referrals?",
+          "content": "When you share your referral link with any of your friends, family or advertise the link and a player signup at our site that player becomes your referral and they will earn you commissions & extra rewards by playing at {{brand}}."
+        }
+      }
+    }
+  },
+  "download": {
+    "banner": {
+      "title": "Banner Pack",
+      "description": "Multilingual Package including events, animated banners, and more...",
+      "button": "Download (200MB)"
+    },
+    "graphics": {
+      "title": "Graphics Pack",
+      "description": "Web design components including Coco, logo, gaming elements, and UI Assets",
+      "button": "Download (21.3MB)"
+    }
+  },
+  "rateRule": {
+    "commission": {
+      "title": "Commission Reward Rate",
+      "casino": {
+        "title": "Casino",
+        "formula": "Wager x 1% x Commission Rate x 28%"
+      },
+      "thirdParty": {
+        "title": "3rd Party Slots, Live Casino",
+        "formula": "Wager x 1% x Commission Rate x 60%"
+      },
+      "sports": {
+        "title": "All Sports",
+        "formula": "Wager x 1% x Commission Rate x 100%"
+      }
+    },
+    "calculator": {
+      "title": "Commission Calculator",
+      "currency": "USD",
+      "casino": "Casino",
+      "commissionRate": "Commission Rate",
+      "game": "Game",
+      "originalGames": "Original Games"
+    },
+    "referral": {
+      "title": "How to Get your Referral Reward",
+      "steps": {
+        "share": {
+          "title": "Share to friends",
+          "content": "Share your referral link or code to your friends"
+        },
+        "get": {
+          "title": "Get ${{amount}}",
+          "content": "Your awards will be locked for now"
+        },
+        "level": {
+          "title": "Level Up &Receive",
+          "content": "Your friend's VIP level will unlock your awards"
+        }
+      },
+      "table": {
+        "level": "Friend's Level",
+        "wager": "Total Wager",
+        "unlock": "Unlock Amount"
+      }
+    }
+  },
+  "referralCodes": {
+    "stats": {
+      "codes": "Referral Code Created",
+      "friends": "Friends"
+    },
+    "actions": {
+      "createCode": "Create Code"
+    },
+    "tabs": {
+      "referralCode": "Referral Code",
+      "friends": "Friends"
+    },
+    "table": {
+      "name": "Name",
+      "code": "Code",
+      "link": "Link",
+      "commissionRate": "Commission Rate",
+      "dateCreated": "Date Created",
+      "referrals": "Referrals"
+    }
+  },
+  "reward": {
+    "commission": {
+      "title": "Available Commission Rewards",
+      "totalReceived": "Total Received: {{amount}}"
+    },
+    "referral": {
+      "title": "Available Referral Rewards",
+      "totalReceived": "Total Received {{amount}}",
+      "lockedRewards": "Locked Rewards {{amount}}"
+    },
+    "actions": {
+      "withdraw": "Withdraw to wallet",
+      "myWallets": "My Wallets"
+    },
+    "tabs": {
+      "commission": "Commission",
+      "referral": "Referral",
+      "rules": "Rules",
+      "history": "History"
+    },
+    "table": {
+      "username": "Username",
+      "commissionRate": "Commission Rate",
+      "totalBet": "Total Bet",
+      "registrationDate": "Registration Date",
+      "totalCommission": "Total Commission",
+      "vipLevel": "VIP Level",
+      "code": "Code",
+      "earned": "Earned",
+      "currency": "Currency"
+    }
+  },
+  "swapModal": {
+    "title": "My Wallet",
+    "walletTypes": {
+      "commission": "Commission Rewards",
+      "referral": "Referral Rewards"
+    },
+    "amount": "Amount",
+    "submit": "Submit"
+  },
+  "dropMenu": {
+    "wallet": "Wallet",
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "bonus_list": "Bonus List",
+    "transactions": "Transactions",
+    "bet_history": "Bet History",
+    "vip_club": "VIP Club",
+    "my_profile": "My Profile",
+    "affiliate": "Affiliate",
+    "global_settings": "Global Settings",
+    "log_out": "Log Out"
+  },
+  "vip": {
+    "viewLevelUpDetail": "View Level Up Detail",
+    "exclusiveVipBonus": "Exclusive VIP Bonus",
+    "discoverGamingExperience": "Discover the ultimate gaming experience"
+  }
+}

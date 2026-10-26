@@ -1,0 +1,472 @@
+{
+  "start": "开始",
+  "comingSoon": "即将推出",
+  "your-games": "你的游戏",
+  "deposit": "存款",
+  "language": "语言",
+  "search": "搜索",
+  "wallet": "钱包",
+  "withdraw": "提款",
+  "transactions": "交易",
+  "bet_history": "投注记录",
+  "vip_club": "VIP俱乐部",
+  "my_profile": "我的资料",
+  "global_settings": "全局设置",
+  "log_out": "登出",
+  "login": "登录",
+  "register": "注册",
+  "dark": "暗色",
+  "light": "亮色",
+  "lobby": "大厅",
+  "sports": "体育",
+  "Casino": "赌场",
+  "Slots": "老虎机",
+  "Live Casino": "真人赌场",
+  "Sport Book": "体育博彩",
+  "Fishing": "捕鱼",
+  "Poker": "扑克",
+  "lottery": "彩票",
+  "cock_fighting": "斗鸡",
+  "others": "其他",
+  "live_casino_premium": "高级真人赌场",
+  "crypto_online_casino": "加密在线赌场",
+  "help_us_improve_your_experience": "帮助我们改善您的体验",
+  "show_more": "显示更多",
+  "stay_untamed": "保持野性",
+  "signup&get_welcome_bonus": "注册并获得欢迎奖金",
+  "exclusive_VIP_bonus": "专属VIP奖金",
+  "recent_big_wins": "近期大奖",
+  "all": "全部",
+  "recommended_games": "推荐游戏",
+  "latest_round&_race": "最新回合与比赛",
+  "no_items_to_display": "无可显示的项目",
+  "game_providers": "游戏提供商",
+  "crypto": "加密货币",
+  "fiat": "法定货币",
+  "cancel": "取消",
+  "submit": "提交",
+  "amount": "金额",
+  "please_enter_a_valid_positive_number": "请输入有效的正数",
+  "account_info": "账户信息",
+  "security": "安全",
+  "preferences": "偏好设置",
+  "personal_verification": "个人验证",
+  "profile_info": "个人资料信息",
+  "username": "用户名",
+  "edit": "编辑",
+  "contact_info": "联系信息",
+  "add": "添加",
+  "connect": "连接",
+  "connected": "已连接",
+  "account_connections": "账户连接",
+  "not_connected": "未连接",
+  "disconnect": "断开连接",
+  "set_password": "设置密码",
+  "create_your_own_password_for_security": "创建您自己的密码以确保安全。",
+  "security_setup": "安全设置",
+  "current_password": "当前密码",
+  "password": "密码",
+  "confirm_password": "确认密码",
+  "verify": "验证",
+  "sessions": "会话",
+  "device": "设备",
+  "location": "位置",
+  "ip_address": "IP地址",
+  "last_used": "最后使用",
+  "action": "操作",
+  "remove": "移除",
+  "e-mail_verification": "电子邮件验证",
+  "verify_your_email_address_is_valid_and_accessible_by_you.": "验证您的电子邮件地址有效且您可以访问。",
+  "phone_number": "电话号码",
+  "verify_your_phone_number_and_you_can_use_the_phone_as_your_second_login_method": "验证您的电话号码，您可以使用电话作为第二登录方式。",
+  "verify_your_phone_number_is_valid_and_accessible_by_you.": "验证您的电话号码有效且您可以访问。",
+  "phone_verification": "电话验证",
+  "enter_your_new_phone_number_below_to_receive_a_verification_code.": "在下面输入您的新电话号码以接收验证码。",
+  "phone_number_verification": "电话号码验证",
+  "email_verification": "电子邮件验证",
+  "please_enter_and_verify_your_email_below": "请在下面输入并验证您的电子邮件",
+  "global_setting": "全局设置",
+  "account_preferences": "账户偏好",
+  "view_in_currency": "以货币显示",
+  "change_language": "更改语言",
+  "display_mode": "显示模式",
+  "privacy_preferences": "隐私偏好",
+  "hide_my_username_from_public_lists": "从公共列表中隐藏我的用户名",
+  "max_bet_alert": "最大投注提醒",
+  "email_notifications": "电子邮件通知",
+  "receive_deposit_successful_email": "接收存款成功电子邮件",
+  "receive_withdraw_successful_email": "接收提款成功电子邮件",
+  "marketing": "市场营销",
+  "receive_marketing_promotions_by_email": "通过电子邮件接收营销促销",
+  "select_the_desired_currency_to_display. the_currencies_will_be_shown_in_approximated_values": "选择要显示的货币。货币将以近似值显示。",
+  "basic_verification": "基本验证",
+  "total_balance": "总余额",
+  "deposit_balance": "存款余额",
+  "bonus_balance": "奖金余额",
+  "balance": "余额",
+  "transaction": "交易",
+  "select_network": "选择网络",
+  "select_currency": "选择货币",
+  "currency": "货币",
+  "no_results_found": "未找到结果",
+  "how_to_deposit_crypto?": "如何存入加密货币？",
+  "copy_address": "复制地址",
+  "signUpGetUpTo": "注册并获得高达",
+  "inCasinoOrSports": "在赌场或体育",
+  "joinNow": "立即加入",
+  "casino": "赌场",
+  "latestBet": "最新投注",
+  "highRoller": "高额玩家",
+  "wagerContest": "投注竞赛",
+  "player": "玩家",
+  "betAmount": "投注金额",
+  "multiplier": "倍数",
+  "profit": "利润",
+  "hidden": "隐藏",
+  "bonus_list": "奖金列表",
+  "wallet_address": "钱包地址",
+  "fiat_currency": "法定货币",
+  "token_type": "代币类型",
+  "payout_method": "支付方式",
+  "created_at": "创建时间",
+  "status": "状态",
+  "duration": "持续时间",
+  "pending": "待处理",
+  "success": "成功",
+  "payout": "支付",
+  "declined": "拒绝",
+  "failed": "失败",
+  "Past 60 days": "过去60天",
+  "Past 30 days": "过去30天",
+  "Past 7 days": "过去7天",
+  "Past 1 day": "过去1天",
+  "Custom": "自定义",
+  "type": "类型",
+  "time": "时间",
+  "fiat_deposit_issues_or_disputes": "法币存款问题或争议",
+  "win": "赢",
+  "bet": "投注",
+  "menu": "菜单",
+  "explore": "探索",
+  "helpCenter": "帮助中心",
+  "bonus": {
+    "title": "奖金",
+    "claim": "领取",
+    "table": {
+      "name": "奖金名称",
+      "amount": "金额",
+      "goal": "目标",
+      "process": "流程",
+      "status": "状态",
+      "type": "类型",
+      "expiryDate": "到期日",
+      "action": "行动"
+    }
+  },
+  "footer": {
+    "aboutBetthrob": "关于 Betthrob",
+    "termsPolicy": "条款与政策",
+    "copyright": "© 2025 Betthrob。保留所有权利。未经Betthrob事先书面许可，禁止以任何形式或任何方式复制、分发或传播本网站或其内容的任何部分，但法律允许的情况除外。",
+    "description": "Betthrob 是一个专注于体育博彩和赌场游戏的在线博彩平台，为玩家提供令人兴奋的娱乐体验。该平台提供多种投注选项，涵盖足球、篮球和网球等体育项目，同时还拥有丰富的赌场游戏，如老虎机、扑克和轮盘，以满足不同玩家的偏好。平台注重用户体验，支持多种支付方式，并提供全天候客户支持，确保始终为用户提供安全便捷的博彩服务。"
+  },
+  "auth": {
+    "signIn": "登录",
+    "signUp": "注册",
+    "emailPhone": "邮箱 / 手机号",
+    "username": "用户名",
+    "password": "密码",
+    "selectCurrency": "选择货币",
+    "agreeTerms": "我同意用户协议并确认我已年满18岁",
+    "haveAccount": "已经有账户？",
+    "emailPhoneRequired": "需要填写邮箱 / 手机号",
+    "usernameRequired": "需要填写用户名",
+    "passwordRequired": "需要填写密码",
+    "currencyRequired": "需要选择货币",
+    "aggrementRequired": "您需要同意协议",
+    "signInWith": "直接登录方式",
+    "forgotPassword": "忘记密码？",
+    "newToBethrob": "第一次使用 BetThrob？",
+    "createAccount": "创建账户"
+  },
+  "payment": {
+    "minBRL": "最低金额为100巴西雷亚尔",
+    "deposit": "充值",
+    "crypto": "加密货币",
+    "fiat": "法币",
+    "selectNetwork": "选择网络",
+    "selectCurrency": "选择货币",
+    "noResultsFound": "未找到结果",
+    "enterValidNumber": "请输入有效的正数",
+    "copyAddress": "复制地址",
+    "searchToken": "搜索代币",
+    "wallet": "钱包"
+  },
+  "common": {
+    "amount": "金额",
+    "cancel": "取消",
+    "submit": "提交",
+    "currency": "货币",
+    "status": "状态",
+    "date": "日期"
+  },
+  "game": {
+    "title": "游戏",
+    "playGame": "开始游戏"
+  },
+  "freeSpin": {
+    "luckySpin": "幸运转盘",
+    "title": {
+      "nextSpin": "下一次旋转",
+      "spinToWin": "旋转赢奖"
+    },
+    "bonus": {
+      "title": "旋转奖励",
+      "total": "旋转奖励总额",
+      "win": "赢得",
+      "username": "用户名"
+    },
+    "table": {
+      "username": "用户名",
+      "time": "时间",
+      "prize": "奖品",
+      "status": "状态"
+    },
+    "status": {
+      "waiting": "等待中",
+      "claimed": "已领取"
+    }
+  },
+  "dashboard": {
+    "invite": {
+      "title": "邀请好友即可获得",
+      "referral": {
+        "rewards": "推荐奖励",
+        "commission": "佣金奖励"
+      },
+      "terms": {
+        "title": "推荐条款与条件",
+        "description": "获取他们投注金额的 25% 佣金。无论他们输赢，在我们的赌场和体育博彩中都可获得稳定佣金。立即开始赚钱！"
+      }
+    },
+    "referral": {
+      "link": "推荐链接",
+      "code": "推荐码",
+      "share": "通过社交媒体分享 -",
+      "terms": {
+        "title": "推荐条款与条件",
+        "description": "获取他们投注金额的 25% 佣金。无论他们输赢，在我们的赌场和体育博彩中都可获得稳定佣金。立即开始赚钱！"
+      }
+    },
+    "stats": {
+      "totalReward": "总奖励",
+      "totalFriends": "好友总数",
+      "referralRewards": "推荐奖励",
+      "commissionRewards": "佣金奖励"
+    },
+    "activities": {
+      "title": "奖励活动",
+      "table": {
+        "code": "代码",
+        "totalReferrals": "推荐总数",
+        "totalRewardAmount": "奖励总额",
+        "totalRewards": "奖励次数",
+        "visitCount": "访问次数",
+        "description": "描述"
+      }
+    },
+    "liveRewards": {
+      "title": "实时奖励",
+      "totalToDate": "截至目前奖励总额"
+    },
+    "affiliate": {
+      "title": "了解我们的",
+      "program": "联盟计划",
+      "description": "如果你拥有大量关注者，我们将为你定制专属推荐计划！邀请玩家并使其投注额达到十亿美元及以上，你就能拥有自己的专属定制赌场！你可以用自己的域名与设计风格搭建一个赌场网站。如需了解详情，请联系我们。",
+      "email": {
+        "title": "输入你的邮箱",
+        "placeholder": "Mail@mail.com"
+      },
+      "setup": {
+        "highlight": "你可以搭建一个赌场网站",
+        "domain": "使用你的域名和设计风格。",
+        "contact": "如需了解详情，请联系我们"
+      }
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "system": {
+          "title": "推荐系统如何运作？",
+          "content": "当你将推荐链接分享给朋友、家人或通过广告推广，并且有玩家通过该链接注册时，该玩家将成为你的推荐人，其在 {{brand}} 上的游戏投注将为你带来佣金和额外奖励。"
+        },
+        "earnings": {
+          "title": "通过推荐我能赚多少钱？",
+          "content": "当你将推荐链接分享给朋友、家人或通过广告推广，并且有玩家通过该链接注册时，该玩家将成为你的推荐人，其在 {{brand}} 上的游戏投注将为你带来佣金和额外奖励。"
+        },
+        "usdReward": {
+          "title": "什么是美元奖励，它如何运作？",
+          "content": "当你将推荐链接分享给朋友、家人或通过广告推广，并且有玩家通过该链接注册时，该玩家将成为你的推荐人，其在 {{brand}} 上的游戏投注将为你带来佣金和额外奖励。"
+        },
+        "banners": {
+          "title": "是否有可以用来推广的横幅？",
+          "content": "当你将推荐链接分享给朋友、家人或通过广告推广，并且有玩家通过该链接注册时，该玩家将成为你的推荐人，其在 {{brand}} 上的游戏投注将为你带来佣金和额外奖励。"
+        },
+        "audience": {
+          "title": "我有大量受众，如何获得特别优惠？",
+          "content": "当你将推荐链接分享给朋友、家人或通过广告推广，并且有玩家通过该链接注册时，该玩家将成为你的推荐人，其在 {{brand}} 上的游戏投注将为你带来佣金和额外奖励。"
+        },
+        "links": {
+          "title": "如果我有多个网站/账户，可以创建多少推荐链接？",
+          "content": "当你将推荐链接分享给朋友、家人或通过广告推广，并且有玩家通过该链接注册时，该玩家将成为你的推荐人，其在 {{brand}} 上的游戏投注将为你带来佣金和额外奖励。"
+        },
+        "data": {
+          "title": "我可以查看推荐人的数据吗？",
+          "content": "当你将推荐链接分享给朋友、家人或通过广告推广，并且有玩家通过该链接注册时，该玩家将成为你的推荐人，其在 {{brand}} 上的游戏投注将为你带来佣金和额外奖励。"
+        },
+        "tips": {
+          "title": "我可以给推荐人发送小费或奖励吗？",
+          "content": "当你将推荐链接分享给朋友、家人或通过广告推广，并且有玩家通过该链接注册时，该玩家将成为你的推荐人，其在 {{brand}} 上的游戏投注将为你带来佣金和额外奖励。"
+        }
+      }
+    }
+  },
+  "download": {
+    "banner": {
+      "title": "横幅素材包",
+      "description": "多语言包，包含活动素材、动画横幅等…",
+      "button": "下载（200MB）"
+    },
+    "graphics": {
+      "title": "图形素材包",
+      "description": "网页设计组件，包括 Coco、logo、游戏元素和 UI 资源",
+      "button": "下载（21.3MB）"
+    }
+  },
+  "rateRule": {
+    "commission": {
+      "title": "佣金奖励费率",
+      "casino": {
+        "title": "赌场",
+        "formula": "投注 × 1% × 佣金费率 × 28%"
+      },
+      "thirdParty": {
+        "title": "第三方老虎机、真人娱乐场",
+        "formula": "投注 × 1% × 佣金费率 × 60%"
+      },
+      "sports": {
+        "title": "所有体育",
+        "formula": "投注 × 1% × 佣金费率 × 100%"
+      }
+    },
+    "calculator": {
+      "title": "佣金计算器",
+      "currency": "USD",
+      "casino": "赌场",
+      "commissionRate": "佣金费率",
+      "game": "游戏",
+      "originalGames": "原创游戏"
+    },
+    "referral": {
+      "title": "如何获得推荐奖励",
+      "steps": {
+        "share": {
+          "title": "分享给好友",
+          "content": "将你的推荐链接或推荐码分享给好友"
+        },
+        "get": {
+          "title": "获得 ${{amount}}",
+          "content": "你的奖励将暂时被锁定"
+        },
+        "level": {
+          "title": "升级并领取",
+          "content": "你好友的 VIP 等级将解锁你的奖励"
+        }
+      },
+      "table": {
+        "level": "好友等级",
+        "wager": "总投注额",
+        "unlock": "解锁金额"
+      }
+    }
+  },
+  "referralCodes": {
+    "stats": {
+      "codes": "已创建推荐码",
+      "friends": "好友"
+    },
+    "actions": {
+      "createCode": "创建代码"
+    },
+    "tabs": {
+      "referralCode": "推荐码",
+      "friends": "好友"
+    },
+    "table": {
+      "name": "名称",
+      "code": "代码",
+      "link": "链接",
+      "commissionRate": "佣金率",
+      "dateCreated": "创建日期",
+      "referrals": "推荐人数"
+    }
+  },
+  "reward": {
+    "commission": {
+      "title": "可用佣金奖励",
+      "totalReceived": "已领取总额：{{amount}}"
+    },
+    "referral": {
+      "title": "可用推荐奖励",
+      "totalReceived": "已领取总额：{{amount}}",
+      "lockedRewards": "锁定奖励：{{amount}}"
+    },
+    "actions": {
+      "withdraw": "提取到钱包",
+      "myWallets": "我的钱包"
+    },
+    "tabs": {
+      "commission": "佣金",
+      "referral": "推荐",
+      "rules": "规则",
+      "history": "历史"
+    },
+    "table": {
+      "username": "用户名",
+      "commissionRate": "佣金率",
+      "totalBet": "总投注",
+      "registrationDate": "注册日期",
+      "totalCommission": "总佣金",
+      "currency": "货币",
+      "vipLevel": "VIP等级",
+      "code": "代码",
+      "earned": "已赚取"
+    }
+  },
+  "swapModal": {
+    "title": "我的钱包",
+    "walletTypes": {
+      "commission": "佣金奖励",
+      "referral": "推荐奖励"
+    },
+    "amount": "金额",
+    "submit": "提交"
+  },
+  "dropMenu": {
+    "wallet": "钱包",
+    "deposit": "充值",
+    "withdraw": "提现",
+    "bonus_list": "奖金列表",
+    "transactions": "交易记录",
+    "bet_history": "投注记录",
+    "vip_club": "VIP俱乐部",
+    "my_profile": "我的资料",
+    "affiliate": "联盟",
+    "global_settings": "全局设置",
+    "log_out": "登出"
+  },
+  "vip": {
+  "viewLevelUpDetail": "查看升级详情",
+  "exclusiveVipBonus": "专属VIP奖金",
+  "discoverGamingExperience": "探索终极游戏体验"
+}
+}

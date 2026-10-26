@@ -1,0 +1,473 @@
+{
+  "start": "Démarrer",
+  "comingSoon": "Bientôt disponible",
+  "your-games": "Vos Jeux",
+  "deposit": "Dépôt",
+  "language": "Langue",
+  "search": "Recherche",
+  "wallet": "Portefeuille",
+  "withdraw": "Retrait",
+  "transactions": "Transactions",
+  "bet_history": "Historique des paris",
+  "vip_club": "Club VIP",
+  "my_profile": "Mon profil",
+  "global_settings": "Paramètres globaux",
+  "log_out": "Déconnexion",
+  "login": "Connexion",
+  "register": "S'inscrire",
+  "dark": "Sombre",
+  "light": "Clair",
+  "lobby": "Hall",
+  "sports": "Sports",
+  "Casino": "Casino",
+  "Slots": "Machines à sous",
+  "Live Casino": "Casino en direct",
+  "Sport Book": "Paris sportifs",
+  "Fishing": "Pêche",
+  "Poker": "Poker",
+  "lottery": "Loterie",
+  "cock_fighting": "Combat de coqs",
+  "others": "Autres",
+  "live_casino_premium": "Casino en direct premium",
+  "crypto_online_casino": "Casino en ligne crypto",
+  "help_us_improve_your_experience": "Aidez-nous à améliorer votre expérience",
+  "show_more": "Afficher plus",
+  "stay_untamed": "Restez indompté",
+  "signup&get_welcome_bonus": "Inscrivez-vous et obtenez un bonus de bienvenue",
+  "exclusive_VIP_bonus": "Bonus VIP exclusif",
+  "recent_big_wins": "Gros gains récents",
+  "all": "Tous",
+  "recommended_games": "Jeux recommandés",
+  "latest_round&_race": "Dernier tour & course",
+  "no_items_to_display": "Aucun élément à afficher",
+  "game_providers": "Fournisseurs de jeux",
+  "crypto": "Crypto",
+  "fiat": "Fiat",
+  "cancel": "Annuler",
+  "submit": "Soumettre",
+  "amount": "Montant",
+  "please_enter_a_valid_positive_number": "Veuillez entrer un nombre positif valide",
+  "account_info": "Informations du compte",
+  "security": "Sécurité",
+  "preferences": "Préférences",
+  "personal_verification": "Vérification personnelle",
+  "profile_info": "Informations du profil",
+  "username": "Nom d'utilisateur",
+  "edit": "Modifier",
+  "contact_info": "Informations de contact",
+  "add": "Ajouter",
+  "connect": "Connecter",
+  "connected": "Connecté",
+  "account_connections": "Connexions de compte",
+  "not_connected": "Non connecté",
+  "disconnect": "Déconnecter",
+  "set_password": "Définir le mot de passe",
+  "create_your_own_password_for_security": "Créez votre propre mot de passe pour la sécurité.",
+  "security_setup": "Configuration de la sécurité",
+  "current_password": "Mot de passe actuel",
+  "password": "Mot de passe",
+  "confirm_password": "Confirmer le mot de passe",
+  "verify": "Vérifier",
+  "sessions": "Sessions",
+  "device": "Appareil",
+  "location": "Emplacement",
+  "ip_address": "Adresse IP",
+  "last_used": "Dernière utilisation",
+  "action": "Action",
+  "remove": "Supprimer",
+  "e-mail_verification": "Vérification par e-mail",
+  "verify_your_email_address_is_valid_and_accessible_by_you.": "Vérifiez que votre adresse e-mail est valide et accessible par vous.",
+  "phone_number": "Numéro de téléphone",
+  "verify_your_phone_number_and_you_can_use_the_phone_as_your_second_login_method": "Vérifiez votre numéro de téléphone et vous pouvez utiliser le téléphone comme deuxième méthode de connexion.",
+  "verify_your_phone_number_is_valid_and_accessible_by_you.": "Vérifiez que votre numéro de téléphone est valide et accessible par vous.",
+  "phone_verification": "Vérification téléphonique",
+  "enter_your_new_phone_number_below_to_receive_a_verification_code.": "Entrez votre nouveau numéro de téléphone ci-dessous pour recevoir un code de vérification.",
+  "phone_number_verification": "Vérification du numéro de téléphone",
+  "email_verification": "Vérification par e-mail",
+  "please_enter_and_verify_your_email_below": "Veuillez entrer et vérifier votre e-mail ci-dessous",
+  "global_setting": "PARAMÈTRES GLOBAUX",
+  "account_preferences": "Préférences du compte",
+  "view_in_currency": "Afficher en devise",
+  "change_language": "Changer de langue",
+  "display_mode": "Mode d'affichage",
+  "privacy_preferences": "Préférences de confidentialité",
+  "hide_my_username_from_public_lists": "Masquer mon nom d'utilisateur des listes publiques",
+  "max_bet_alert": "Alerte de mise maximale",
+  "email_notifications": "Notifications par e-mail",
+  "receive_deposit_successful_email": "Recevoir un e-mail de dépôt réussi",
+  "receive_withdraw_successful_email": "Recevoir un e-mail de retrait réussi",
+  "marketing": "Marketing",
+  "receive_marketing_promotions_by_email": "Recevoir des promotions marketing par e-mail",
+  "select_the_desired_currency_to_display. the_currencies_will_be_shown_in_approximated_values": "Sélectionnez la devise souhaitée à afficher. Les devises seront affichées en valeurs approximatives.",
+  "basic_verification": "Vérification de base",
+  "total_balance": "Solde total",
+  "deposit_balance": "Solde dépôt",
+  "bonus_balance": "Solde bonus",
+  "balance": "Solde",
+  "transaction": "Transaction",
+  "select_network": "Sélectionner le réseau",
+  "select_currency": "Sélectionner la devise",
+  "currency": "Devise",
+  "no_results_found": "Aucun résultat trouvé",
+  "how_to_deposit_crypto?": "Comment déposer des cryptos ?",
+  "copy_address": "Copier l'adresse",
+  "signUpGetUpTo": "Inscrivez-vous et obtenez jusqu'à",
+  "inCasinoOrSports": "au Casino ou aux Sports",
+  "joinNow": "Rejoignez maintenant",
+  "casino": "Casino",
+  "latestBet": "Dernier pari",
+  "highRoller": "Gros joueur",
+  "wagerContest": "Concours de paris",
+  "player": "Joueur",
+  "betAmount": "Montant du pari",
+  "multiplier": "Multiplicateur",
+  "profit": "Profit",
+  "hidden": "Caché",
+  "bonus_list": "Liste des bonus",
+  "wallet_address": "Adresse du portefeuille",
+  "fiat_currency": "Monnaie fiduciaire",
+  "token_type": "Type de jeton",
+  "payout_method": "Méthode de paiement",
+  "created_at": "Créé le",
+  "status": "Statut",
+  "duration": "Durée",
+  "pending": "En attente",
+  "success": "Succès",
+  "payout": "Paiement",
+  "declined": "Refusé",
+  "failed": "Échoué",
+  "Past 60 days": "60 derniers jours",
+  "Past 30 days": "30 derniers jours",
+  "Past 7 days": "7 derniers jours",
+  "Past 1 day": "1 dernier jour",
+  "Custom": "Personnalisé",
+  "type": "Type",
+  "time": "Temps",
+  "fiat_deposit_issues_or_disputes": "Problèmes ou litiges de dépôt en monnaie fiduciaire",
+  "win": "Gagner",
+  "bet": "Pari",
+  "menu": "Menu",
+  "explore": "Explorer",
+  "helpCenter": "Centre d'aide",
+  "bonus": {
+    "title": "Prime",
+    "claim": "Réclamer",
+    "table": {
+      "name": "Nom du bonus",
+      "amount": "Montante",
+      "goal": "But",
+      "process": "Processus",
+      "status": "Statut",
+      "type": "Taper",
+      "expiryDate": "Date d'expiration",
+      "action": "Action"
+    }
+  },
+  "footer": {
+    "aboutBetthrob": "À propos de Betthrob",
+    "termsPolicy": "Conditions & Politique",
+    "copyright": "© 2025 Betthrob. Tous droits réservés. Aucune partie de ce site Web ou de son contenu ne peut être reproduite, distribuée ou transmise sous quelque forme ou par quelque moyen que ce soit sans l'autorisation écrite préalable de Betthrob, sauf dans les cas permis par la loi applicable.",
+    "description": "Betthrob est une plateforme de jeux d'argent en ligne axée sur les paris sportifs et les jeux de casino, offrant aux joueurs une expérience de divertissement palpitante. La plateforme propose une grande variété d'options de paris, couvrant des sports comme le football, le basketball et le tennis, tout en présentant un large choix de jeux de casino tels que les machines à sous, le poker et la roulette, afin de satisfaire toutes les préférences. Elle met l'accent sur l'expérience utilisateur, prend en charge plusieurs méthodes de paiement, et offre une assistance client 24h/24 et 7j/7 pour garantir un service de jeu sûr et pratique à tout moment."
+  },
+  "auth": {
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "emailPhone": "E-mail / Numéro de téléphone",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "selectCurrency": "Sélectionner la devise",
+    "agreeTerms": "J'accepte les Conditions d'utilisation et je confirme avoir au moins 18 ans",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "emailPhoneRequired": "E-mail / téléphone requis",
+    "usernameRequired": "Nom d'utilisateur requis",
+    "passwordRequired": "Mot de passe requis",
+    "currencyRequired": "Devise requise",
+    "aggrementRequired": "Votre accord est requis",
+    "signInWith": "Se connecter directement avec",
+    "forgotPassword": "Mot de passe oublié ?",
+    "newToBethrob": "Nouveau sur BetThrob ?",
+    "createAccount": "Créer un compte"
+  },
+  "payment": {
+    "minBRL": "Le montant minimum est de 100 BRL",
+    "deposit": "Dépôt",
+    "crypto": "Crypto",
+    "fiat": "Fiat",
+    "selectNetwork": "Sélectionner le réseau",
+    "selectCurrency": "Sélectionner la devise",
+    "noResultsFound": "Aucun résultat trouvé",
+    "enterValidNumber": "Veuillez entrer un nombre positif valide",
+    "copyAddress": "Copier l'adresse",
+    "searchToken": "Rechercher un jeton",
+    "wallet": "Portefeuille"
+  },
+  "common": {
+    "amount": "Montant",
+    "cancel": "Annuler",
+    "submit": "Soumettre",
+    "currency": "Devise",
+    "status": "Statut",
+    "date": "Date"
+  },
+  "game": {
+    "title": "Jeu",
+    "playGame": "Jouer au jeu"
+  },
+  "freeSpin": {
+    "luckySpin": "Tour Chanceux",
+    "title": {
+      "nextSpin": "VOTRE PROCHAIN TOUR",
+      "spinToWin": "TOURNEZ POUR GAGNER"
+    },
+    "bonus": {
+      "title": "Bonus de tour",
+      "total": "TOTAL DES BONUS DE TOUR",
+      "win": "Gagner",
+      "username": "Nom d'utilisateur"
+    },
+    "table": {
+      "username": "Nom d'utilisateur",
+      "time": "Heure",
+      "prize": "Prix",
+      "status": "Statut"
+    },
+    "status": {
+      "waiting": "En attente",
+      "claimed": "Réclamé"
+    }
+  },
+  "dashboard": {
+    "invite": {
+      "title": "Invitez un ami pour obtenir",
+      "referral": {
+        "rewards": "Récompenses de parrainage",
+        "commission": "Récompenses de commission"
+      },
+      "terms": {
+        "title": "Conditions générales du parrainage",
+        "description": "Obtenez 25 % de commission sur leurs mises. Profitez de commissions stables, qu'ils gagnent ou non, dans notre Casino et notre Sportsbook. Commencez à gagner dès maintenant !"
+      }
+    },
+    "referral": {
+      "link": "Lien de parrainage",
+      "code": "Code de parrainage",
+      "share": "Partager via les réseaux sociaux –",
+      "terms": {
+        "title": "Conditions générales du parrainage",
+        "description": "Obtenez 25 % de commission sur leurs mises. Profitez de commissions stables, qu'ils gagnent ou non, dans notre Casino et notre Sportsbook. Commencez à gagner dès maintenant !"
+      }
+    },
+    "stats": {
+      "totalReward": "Récompense totale",
+      "totalFriends": "Nombre total d'amis",
+      "referralRewards": "Récompenses de parrainage",
+      "commissionRewards": "Récompenses de commission"
+    },
+    "activities": {
+      "title": "Activités de récompense",
+      "table": {
+        "code": "Code",
+        "totalReferrals": "Total des parrains",
+        "totalRewardAmount": "Montant total des récompenses",
+        "totalRewards": "Nombre total de récompenses",
+        "visitCount": "Nombre de visites",
+        "description": "Description"
+      }
+    },
+    "liveRewards": {
+      "title": "Récompenses en direct",
+      "totalToDate": "Total des récompenses envoyées à ce jour"
+    },
+    "affiliate": {
+      "title": "En savoir plus sur notre",
+      "program": "programme d'affiliation",
+      "description": "Vous avez une large audience ? Nous proposons des conditions spéciales pour personnaliser votre programme de parrainage ! Si vos joueurs atteignent un total de mises d’un milliard de dollars ou plus, vous bénéficierez de votre propre casino personnalisé ! Configurez un site de casino avec votre nom de domaine et votre style de design. Pour plus d’informations, contactez-nous.",
+      "email": {
+        "title": "Entrez votre e‑mail",
+        "placeholder": "Mail@mail.com"
+      },
+      "setup": {
+        "highlight": "Vous pouvez créer un site de casino",
+        "domain": "avec votre domaine et votre style de design.",
+        "contact": "pour plus de détails, contactez‑nous"
+      }
+    },
+    "faq": {
+      "title": "Foire aux questions",
+      "items": {
+        "system": {
+          "title": "Comment fonctionne le système de parrainage ?",
+          "content": "Lorsque vous partagez votre lien de parrainage avec vos amis, votre famille ou via une publicité, et qu'un joueur s'inscrit sur notre site via ce lien, ce joueur devient votre filleul et vous rapporte des commissions et récompenses supplémentaires en jouant sur {{brand}}."
+        },
+        "earnings": {
+          "title": "Combien puis‑je gagner avec mes parrainages ?",
+          "content": "Lorsque vous partagez votre lien de parrainage avec vos amis, votre famille ou via une publicité, et qu'un joueur s'inscrit sur notre site via ce lien, ce joueur devient votre filleul et vous rapporte des commissions et récompenses supplémentaires en jouant sur {{brand}}."
+        },
+        "usdReward": {
+          "title": "Qu’est‑ce que la récompense en USD et comment fonctionne‑t‑elle ?",
+          "content": "Lorsque vous partagez votre lien de parrainage avec vos amis, votre famille ou via une publicité, et qu'un joueur s'inscrit sur notre site via ce lien, ce joueur devient votre filleul et vous rapporte des commissions et récompenses supplémentaires en jouant sur {{brand}}."
+        },
+        "banners": {
+          "title": "Des bannières sont‑elles disponibles pour faire de la pub ?",
+          "content": "Lorsque vous partagez votre lien de parrainage avec vos amis, votre famille ou via une publicité, et qu'un joueur s'inscrit sur notre site via ce lien, ce joueur devient votre filleul et vous rapporte des commissions et récompenses supplémentaires en jouant sur {{brand}}."
+        },
+        "audience": {
+          "title": "J’ai une grande audience, comment obtenir des offres spéciales ?",
+          "content": "Lorsque vous partagez votre lien de parrainage avec vos amis, votre famille ou via une publicité, et qu'un joueur s'inscrit sur notre site via ce lien, ce joueur devient votre filleul et vous rapporte des commissions et récompenses supplémentaires en jouant sur {{brand}}."
+        },
+        "links": {
+          "title": "Combien de liens d’affiliation puis‑je créer si j’ai plusieurs sites/comptes ?",
+          "content": "Lorsque vous partagez votre lien de parrainage avec vos amis, votre famille ou via une publicité, et qu'un joueur s'inscrit sur notre site via ce lien, ce joueur devient votre filleul et vous rapporte des commissions et récompenses supplémentaires en jouant sur {{brand}}."
+        },
+        "data": {
+          "title": "Puis‑je consulter les données de mes filleuls ?",
+          "content": "Lorsque vous partagez votre lien de parrainage avec vos amis, votre famille ou via une publicité, et qu'un joueur s'inscrit sur notre site via ce lien, ce joueur devient votre filleul et vous rapporte des commissions et récompenses supplémentaires en jouant sur {{brand}}."
+        },
+        "tips": {
+          "title": "Puis‑je envoyer un pourboire ou une récompense à mes filleuls ?",
+          "content": "Lorsque vous partagez votre lien de parrainage avec vos amis, votre famille ou via une publicité, et qu'un joueur s'inscrit sur notre site via ce lien, ce joueur devient votre filleul et vous rapporte des commissions et récompenses supplémentaires en jouant sur {{brand}}."
+        }
+      }
+    }
+  },
+  "download": {
+    "banner": {
+      "title": "Pack de bannières",
+      "description": "Pack multilingue comprenant événements, bannières animées, etc.",
+      "button": "Télécharger (200 Mo)"
+    },
+    "graphics": {
+      "title": "Pack graphique",
+      "description": "Composants de design web incluant Coco, logo, éléments de jeu et UI Assets",
+      "button": "Télécharger (21.3 Mo)"
+    }
+  },
+  "rateRule": {
+    "commission": {
+      "title": "Taux de récompense de commission",
+      "casino": {
+        "title": "Casino",
+        "formula": "Mise × 1 % × Taux de commission × 28 %"
+      },
+      "thirdParty": {
+        "title": "Slots tiers, Casino en direct",
+        "formula": "Mise × 1 % × Taux de commission × 60 %"
+      },
+      "sports": {
+        "title": "Tous sports",
+        "formula": "Mise × 1 % × Taux de commission × 100 %"
+      }
+    },
+    "calculator": {
+      "title": "Calculateur de commission",
+      "currency": "USD",
+      "casino": "Casino",
+      "commissionRate": "Taux de commission",
+      "game": "Jeu",
+      "originalGames": "Jeux originaux"
+    },
+    "referral": {
+      "title": "Comment obtenir votre récompense de parrainage",
+      "steps": {
+        "share": {
+          "title": "Partager aux amis",
+          "content": "Partagez votre lien ou code de parrainage avec vos amis"
+        },
+        "get": {
+          "title": "Recevez ${{amount}}",
+          "content": "Vos récompenses seront verrouillées pour l’instant"
+        },
+        "level": {
+          "title": "Montez en niveau & recevez",
+          "content": "Le niveau VIP de votre ami débloquera vos récompenses"
+        }
+      },
+      "table": {
+        "level": "Niveau de l’ami",
+        "wager": "Mise totale",
+        "unlock": "Montant débloqué"
+      }
+    }
+  },
+  "referralCodes": {
+    "stats": {
+      "codes": "Codes de parrainage créés",
+      "friends": "Amis"
+    },
+    "actions": {
+      "createCode": "Créer un code"
+    },
+    "tabs": {
+      "referralCode": "Code de parrainage",
+      "friends": "Amis"
+    },
+    "table": {
+      "name": "Nom",
+      "code": "Code",
+      "link": "Lien",
+      "commissionRate": "Taux de commission",
+      "dateCreated": "Date de création",
+      "referrals": "Parrainages"
+    }
+  },
+  "reward": {
+    "commission": {
+      "title": "Récompenses de commission disponibles",
+      "totalReceived": "Total reçu : {{amount}}"
+    },
+    "referral": {
+      "title": "Récompenses de parrainage disponibles",
+      "totalReceived": "Total reçu : {{amount}}",
+      "lockedRewards": "Récompenses bloquées : {{amount}}"
+    },
+    "actions": {
+      "withdraw": "Retirer vers le portefeuille",
+      "myWallets": "Mes portefeuilles"
+    },
+    "tabs": {
+      "commission": "Commission",
+      "referral": "Parrainage",
+      "rules": "Règles",
+      "history": "Historique"
+    },
+    "table": {
+      "username": "Nom d'utilisateur",
+      "commissionRate": "Taux de commission",
+      "totalBet": "Mise totale",
+      "registrationDate": "Date d'inscription",
+      "totalCommission": "Commission totale",
+      "currency": "Devise",
+      "vipLevel": "Niveau VIP",
+      "code": "Code",
+      "earned": "Gagné"
+    }
+  },
+  "swapModal": {
+    "title": "Mon portefeuille",
+    "walletTypes": {
+      "commission": "Récompenses de commission",
+      "referral": "Récompenses de parrainage"
+    },
+    "amount": "Montant",
+    "submit": "Soumettre"
+  },
+  "dropMenu": {
+    "wallet": "Portefeuille",
+    "deposit": "Dépôt",
+    "withdraw": "Retrait",
+    "bonus_list": "Liste des bonus",
+    "transactions": "Transactions",
+    "bet_history": "Historique des paris",
+    "vip_club": "Club VIP",
+    "my_profile": "Mon profil",
+    "affiliate": "Affilié",
+    "global_settings": "Paramètres globaux",
+    "log_out": "Déconnexion"
+  },
+  "vip": {
+  "viewLevelUpDetail": "Voir les détails du niveau supérieur",
+  "exclusiveVipBonus": "Bonus VIP exclusif",
+  "discoverGamingExperience": "Découvrez l'expérience de jeu ultime"
+}
+
+}

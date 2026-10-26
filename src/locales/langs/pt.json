@@ -1,0 +1,474 @@
+{
+  "start": "Iniciar",
+  "comingSoon": "Em breve",
+  "your-games": "Seus Jogos",
+  "deposit": "Depósito",
+  "language": "Idioma",
+  "search": "Pesquisar",
+  "wallet": "Carteira",
+  "withdraw": "Retirar",
+  "transactions": "Transações",
+  "bet_history": "Histórico de Apostas",
+  "vip_club": "Clube VIP",
+  "my_profile": "Meu Perfil",
+  "global_settings": "Configurações Globais",
+  "log_out": "Sair",
+  "login": "Entrar",
+  "register": "Cadastrar",
+  "already_have_an_account": "Já tem uma conta?",
+  "dark": "Escuro",
+  "light": "Claro",
+  "lobby": "Lobby",
+  "sports": "Esportes",
+  "Casino": "Cassino",
+  "Slots": "Caça-níqueis",
+  "Live Casino": "Cassino ao Vivo",
+  "Sport Book": "Casa de Apostas",
+  "Fishing": "Pesca",
+  "Poker": "Pôquer",
+  "lottery": "Loteria",
+  "cock_fighting": "Rinha de Galo",
+  "others": "Outros",
+  "live_casino_premium": "Cassino ao Vivo Premium",
+  "crypto_online_casino": "Cassino Online Crypto",
+  "help_us_improve_your_experience": "Ajude-nos a melhorar sua experiência",
+  "show_more": "Mostrar mais",
+  "stay_untamed": "Continue Selvagem",
+  "signup&get_welcome_bonus": "Cadastre-se e Ganhe Bônus de Boas-vindas",
+  "exclusive_VIP_bonus": "Bônus VIP Exclusivo",
+  "recent_big_wins": "Grandes Vitórias Recentes",
+  "all": "Todos",
+  "recommended_games": "Jogos Recomendados",
+  "latest_round&_race": "Última Rodada & Corrida",
+  "no_items_to_display": "Nenhum item para exibir",
+  "game_providers": "Provedores de Jogos",
+  "crypto": "Cripto",
+  "fiat": "Fiat",
+  "cancel": "Cancelar",
+  "submit": "Enviar",
+  "amount": "Quantia",
+  "please_enter_a_valid_positive_number": "Por favor, insira um número positivo válido",
+  "account_info": "Informações da Conta",
+  "security": "Segurança",
+  "preferences": "Preferências",
+  "personal_verification": "Verificação Pessoal",
+  "profile_info": "Informações do Perfil",
+  "username": "Nome de Usuário",
+  "edit": "Editar",
+  "contact_info": "Informações de Contato",
+  "add": "Adicionar",
+  "connect": "Conectar",
+  "connected": "Conectado",
+  "account_connections": "Conexões de Conta",
+  "not_connected": "Não Conectado",
+  "disconnect": "Desconectar",
+  "set_password": "Definir Senha",
+  "create_your_own_password_for_security": "Crie sua própria senha para segurança.",
+  "security_setup": "Configuração de Segurança",
+  "current_password": "Senha Atual",
+  "password": "Senha",
+  "confirm_password": "Confirmar Senha",
+  "verify": "Verificar",
+  "sessions": "Sessões",
+  "device": "Dispositivo",
+  "location": "Localização",
+  "ip_address": "Endereço IP",
+  "last_used": "Último Uso",
+  "action": "Ação",
+  "remove": "Remover",
+  "e-mail_verification": "Verificação de E‑mail",
+  "verify_your_email_address_is_valid_and_accessible_by_you.": "Verifique se seu endereço de e‑mail é válido e acessível por você.",
+  "phone_number": "Número de Telefone",
+  "verify_your_phone_number_and_you_can_use_the_phone_as_your_second_login_method": "Verifique seu número de telefone e poderá usá-lo como segundo método de login.",
+  "verify_your_phone_number_is_valid_and_accessible_by_you.": "Verifique se seu número de telefone é válido e acessível por você.",
+  "phone_verification": "Verificação por Telefone",
+  "enter_your_new_phone_number_below_to_receive_a_verification_code.": "Insira seu novo número de telefone abaixo para receber um código de verificação.",
+  "phone_number_verification": "Verificação do Número de Telefone",
+  "email_verification": "Verificação de E‑mail",
+  "please_enter_and_verify_your_email_below": "Por favor, insira e verifique seu e‑mail abaixo",
+  "global_setting": "CONFIGURAÇÕES GLOBAIS",
+  "account_preferences": "Preferências da Conta",
+  "view_in_currency": "Visualizar em moeda",
+  "change_language": "Alterar Idioma",
+  "display_mode": "Modo de Exibição",
+  "privacy_preferences": "Preferências de Privacidade",
+  "hide_my_username_from_public_lists": "Ocultar meu nome de usuário de listas públicas",
+  "max_bet_alert": "Alerta de Aposta Máxima",
+  "email_notifications": "Notificações por E‑mail",
+  "receive_deposit_successful_email": "Receber e‑mail de depósito bem‑sucedido",
+  "receive_withdraw_successful_email": "Receber e‑mail de retirada bem‑sucedida",
+  "marketing": "Marketing",
+  "receive_marketing_promotions_by_email": "Receber promoções de marketing por e‑mail",
+  "select_the_desired_currency_to_display. the_currencies_will_be_shown_in_approximated_values": "Selecione a moeda desejada para exibição. As moedas serão mostradas em valores aproximados.",
+  "basic_verification": "Verificação Básica",
+  "total_balance": "Saldo Total",
+  "deposit_balance": "Saldo para Depósito",
+  "bonus_balance": "Saldo de Bônus",
+  "balance": "Saldo",
+  "transaction": "Transação",
+  "select_network": "Selecionar Rede",
+  "select_currency": "Selecionar Moeda",
+  "currency": "Moeda",
+  "no_results_found": "Nenhum resultado encontrado",
+  "how_to_deposit_crypto?": "Como depositar cripto?",
+  "copy_address": "Copiar Endereço",
+  "signUpGetUpTo": "Cadastre-se e receba até",
+  "inCasinoOrSports": "no Cassino ou Esportes",
+  "joinNow": "Junte‑se Agora",
+  "casino": "Cassino",
+  "latestBet": "Última Aposta",
+  "highRoller": "Alto Apostador",
+  "wagerContest": "Concurso de Apostas",
+  "player": "Jogador",
+  "betAmount": "Valor da Aposta",
+  "multiplier": "Multiplicador",
+  "profit": "Lucro",
+  "hidden": "Oculto",
+  "bonus_list": "Lista de Bônus",
+  "wallet_address": "Endereço da Carteira",
+  "fiat_currency": "Moeda Fiat",
+  "token_type": "Tipo de Token",
+  "payout_method": "Método de Pagamento",
+  "created_at": "Criado Em",
+  "status": "Status",
+  "duration": "Duração",
+  "pending": "Pendente",
+  "success": "Sucesso",
+  "payout": "Pagamento",
+  "declined": "Recusado",
+  "failed": "Falhou",
+  "Past 60 days": "Últimos 60 dias",
+  "Past 30 days": "Últimos 30 dias",
+  "Past 7 days": "Últimos 7 dias",
+  "Past 1 day": "Últimas 24 horas",
+  "Custom": "Personalizado",
+  "type": "Tipo",
+  "time": "Hora",
+  "fiat_deposit_issues_or_disputes": "Questões ou Disputas de Depósito Fiat",
+  "win": "Ganho",
+  "bet": "Aposta",
+  "menu": "Menu",
+  "explore": "Explorar",
+  "helpCenter": "Central de Ajuda",
+  "bonus": {
+    "title": "Bônus",
+    "claim": "Resgatar",
+    "table": {
+      "name": "Nome do Bônus",
+      "amount": "Quantia",
+      "goal": "Meta",
+      "process": "Progresso",
+      "status": "Status",
+      "type": "Tipo",
+      "expiryDate": "Data de Expiração",
+      "action": "Ação"
+    }
+  },
+  "footer": {
+    "aboutBetthrob": "Sobre Betthrob",
+    "termsPolicy": "Termos e Política",
+    "copyright": "© 2025 Betthrob. Todos os direitos reservados. Nenhuma parte deste site ou seu conteúdo pode ser reproduzida, distribuída ou transmitida de qualquer forma ou por qualquer meio sem a permissão prévia por escrito da Betthrob, exceto conforme permitido pela lei aplicável.",
+    "description": "A Betthrob é uma plataforma de apostas online que foca em apostas esportivas e jogos de cassino, oferecendo aos jogadores uma experiência de entretenimento empolgante. A plataforma disponibiliza uma variedade de opções de apostas, cobrindo esportes como futebol, basquete e tênis, além de uma seleção rica de jogos de cassino, como caça-níqueis, pôquer e roleta, atendendo às diferentes preferências dos jogadores. Ela enfatiza a experiência do usuário, suporta múltiplos métodos de pagamento e oferece suporte ao cliente 24 horas por dia, 7 dias por semana, para garantir um serviço de apostas seguro e conveniente em todos os momentos."
+  },
+  "auth": {
+    "signIn": "Entrar",
+    "signUp": "Cadastrar",
+    "emailPhone": "E‑mail / Telefone",
+    "username": "Nome de Usuário",
+    "password": "Senha",
+    "selectCurrency": "Selecionar moeda",
+    "agreeTerms": "Eu concordo com o Acordo do Usuário & confirmo que tenho pelo menos 18 anos",
+    "haveAccount": "Já tem uma conta?",
+    "emailPhoneRequired": "E‑mail / Telefone é obrigatório",
+    "usernameRequired": "Nome de usuário é obrigatório",
+    "passwordRequired": "Senha é obrigatória",
+    "currencyRequired": "Moeda é obrigatória",
+    "aggrementRequired": "Seu consentimento é obrigatório",
+    "signInWith": "Entrar diretamente com",
+    "forgotPassword": "Esqueceu sua senha?",
+    "newToBethrob": "Novo no BetThrob?",
+    "createAccount": "Criar Conta"
+  },
+  "payment": {
+    "minBRL": "O valor mínimo é 100 BRL",
+    "deposit": "Depósito",
+    "crypto": "Cripto",
+    "fiat": "Fiat",
+    "selectNetwork": "Selecionar Rede",
+    "selectCurrency": "Selecionar Moeda",
+    "noResultsFound": "Nenhum resultado encontrado",
+    "enterValidNumber": "Por favor, insira um número positivo válido",
+    "copyAddress": "Copiar Endereço",
+    "searchToken": "Buscar token",
+    "wallet": "Carteira"
+  },
+  "common": {
+    "amount": "Quantia",
+    "cancel": "Cancelar",
+    "submit": "Enviar",
+    "currency": "Moeda",
+    "status": "Status",
+    "date": "Data"
+  },
+  "game": {
+    "title": "Jogo",
+    "playGame": "Jogar"
+  },
+  "freeSpin": {
+    "luckySpin": "Lucky Spin",
+    "title": {
+      "nextSpin": "SEU PRÓXIMO GIRO",
+      "spinToWin": "GIRO PARA GANHAR"
+    },
+    "bonus": {
+      "title": "Bônus Giro",
+      "total": "TOTAL DE BÔNUS DO GIRO",
+      "win": "Ganho",
+      "username": "Nome de Usuário"
+    },
+    "table": {
+      "username": "Nome de Usuário",
+      "time": "Hora",
+      "prize": "Prêmio",
+      "status": "Status"
+    },
+    "status": {
+      "waiting": "Aguardando",
+      "claimed": "Reivindicado"
+    }
+  },
+  "dashboard": {
+    "invite": {
+      "title": "Convide um amigo para receber",
+      "referral": {
+        "rewards": "Recompensas de Indicação",
+        "commission": "Recompensas de Comissão"
+      },
+      "terms": {
+        "title": "Termos e Condições de Indicação",
+        "description": "Receba 25% de comissão sobre as apostas deles. Aproveite comissões consistentes, ganhem ou percam, no nosso Cassino e Apostas Esportivas. Comece a ganhar agora!"
+      }
+    },
+    "referral": {
+      "link": "Link de Indicação",
+      "code": "Código de Referência",
+      "share": "Compartilhar via redes sociais –",
+      "terms": {
+        "title": "Termos e Condições de Indicação",
+        "description": "Receba 25% de comissão sobre as apostas deles. Aproveite comissões consistentes, ganhem ou percam, no nosso Cassino e Apostas Esportivas. Comece a ganhar agora!"
+      }
+    },
+    "stats": {
+      "totalReward": "Recompensa Total",
+      "totalFriends": "Total de Amigos",
+      "referralRewards": "Recompensas de Indicação",
+      "commissionRewards": "Recompensas de Comissão"
+    },
+    "activities": {
+      "title": "Atividades de Recompensa",
+      "table": {
+        "code": "Código",
+        "totalReferrals": "Total de Indicações",
+        "totalRewardAmount": "Valor Total em Recompensas",
+        "totalRewards": "Total de Recompensas",
+        "visitCount": "Número de Visitas",
+        "description": "Descrição"
+      }
+    },
+    "liveRewards": {
+      "title": "Recompensas ao Vivo",
+      "totalToDate": "Total de Recompensas Enviadas até Hoje"
+    },
+    "affiliate": {
+      "title": "Saiba mais sobre nosso",
+      "program": "programa de afiliados",
+      "description": "Se você tiver uma grande audiência e seguidores, temos condições especiais para personalizar seu programa de indicação! Se convidar jogadores e o valor total das apostas atingir um bilhão de dólares ou mais, você poderá ter seu próprio cassino personalizado! Monte um site de cassino com seu domínio e estilo de design. Para mais detalhes, entre em contato conosco.",
+      "email": {
+        "title": "Informe seu e‑mail",
+        "placeholder": "Mail@mail.com"
+      },
+      "setup": {
+        "highlight": "Você pode montar um site de cassino",
+        "domain": "com seu domínio e estilo de design.",
+        "contact": "para mais detalhes, entre em contato conosco"
+      }
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": {
+        "system": {
+          "title": "Como funciona o sistema de indicação?",
+          "content": "Quando você compartilha seu link de indicação com amigos, familiares ou através de propaganda e um jogador se inscreve no nosso site por esse link, esse jogador se torna seu indicado e você ganha comissões e recompensas extras ao jogar no {{brand}}."
+        },
+        "earnings": {
+          "title": "Quanto posso ganhar com minhas indicações?",
+          "content": "Quando você compartilha seu link de indicação com amigos, familiares ou através de propaganda e um jogador se inscreve no nosso site por esse link, esse jogador se torna seu indicado e você ganha comissões e recompensas extras ao jogar no {{brand}}."
+        },
+        "usdReward": {
+          "title": "O que é a recompensa em USD e como funciona?",
+          "content": "Quando você compartilha seu link de indicação com amigos, familiares ou através de propaganda e um jogador se inscreve no nosso site por esse link, esse jogador se torna seu indicado e você ganha comissões e recompensas extras ao jogar no {{brand}}."
+        },
+        "banners": {
+          "title": "Existem banners que posso usar para divulgar?",
+          "content": "Quando você compartilha seu link de indicação com amigos, familiares ou através de propaganda e um jogador se inscreve no nosso site por esse link, esse jogador se torna seu indicado e você ganha comissões e recompensas extras ao jogar no {{brand}}."
+        },
+        "audience": {
+          "title": "Tenho grande audiência – como obter ofertas especiais?",
+          "content": "Quando você compartilha seu link de indicação com amigos, familiares ou através de propaganda e um jogador se inscreve no nosso site por esse link, esse jogador se torna seu indicado e você ganha comissões e recompensas extras ao jogar no {{brand}}."
+        },
+        "links": {
+          "title": "Quantos links de afiliado posso criar se eu tiver diferentes sites/contas?",
+          "content": "Quando você compartilha seu link de indicação com amigos, familiares ou através de propaganda e um jogador se inscreve no nosso site por esse link, esse jogador se torna seu indicado e você ganha comissões e recompensas extras ao jogar no {{brand}}."
+        },
+        "data": {
+          "title": "Posso ver os dados dos meus indicados?",
+          "content": "Quando você compartilha seu link de indicação com amigos, familiares ou através de propaganda e um jogador se inscreve no nosso site por esse link, esse jogador se torna seu indicado e você ganha comissões e recompensas extras ao jogar no {{brand}}."
+        },
+        "tips": {
+          "title": "Posso enviar dica ou recompensa para meus indicados?",
+          "content": "Quando você compartilha seu link de indicação com amigos, familiares ou através de propaganda e um jogador se inscreve no nosso site por esse link, esse jogador se torna seu indicado e você ganha comissões e recompensas extras ao jogar no {{brand}}."
+        }
+      }
+    }
+  },
+  "download": {
+    "banner": {
+      "title": "Pacote de Banners",
+      "description": "Pacote multilíngue incluindo eventos, banners animados e mais...",
+      "button": "Baixar (200 MB)"
+    },
+    "graphics": {
+      "title": "Pacote Gráfico",
+      "description": "Componentes de design web incluindo Coco, logo, elementos de jogos e ativos de UI",
+      "button": "Baixar (21.3 MB)"
+    }
+  },
+  "rateRule": {
+    "commission": {
+      "title": "Taxa de Recompensa de Comissão",
+      "casino": {
+        "title": "Cassino",
+        "formula": "Aposta × 1 % × Taxa de Comissão × 28 %"
+      },
+      "thirdParty": {
+        "title": "Slots de terceiros, Cassino ao Vivo",
+        "formula": "Aposta × 1 % × Taxa de Comissão × 60 %"
+      },
+      "sports": {
+        "title": "Todos os esportes",
+        "formula": "Aposta × 1 % × Taxa de Comissão × 100 %"
+      }
+    },
+    "calculator": {
+      "title": "Calculadora de Comissão",
+      "currency": "USD",
+      "casino": "Cassino",
+      "commissionRate": "Taxa de Comissão",
+      "game": "Jogo",
+      "originalGames": "Jogos Originais"
+    },
+    "referral": {
+      "title": "Como obter sua recompensa de indicação",
+      "steps": {
+        "share": {
+          "title": "Compartilhe com amigos",
+          "content": "Compartilhe seu link ou código de indicação com seus amigos"
+        },
+        "get": {
+          "title": "Receba ${{amount}}",
+          "content": "Suas recompensas ficarão bloqueadas por enquanto"
+        },
+        "level": {
+          "title": "Suba de nível e receba",
+          "content": "O nível VIP do seu amigo desbloqueará suas recompensas"
+        }
+      },
+      "table": {
+        "level": "Nível do amigo",
+        "wager": "Total de Apostas",
+        "unlock": "Valor Desbloqueado"
+      }
+    }
+  },
+  "referralCodes": {
+    "stats": {
+      "codes": "Códigos de Indicação Criados",
+      "friends": "Amigos"
+    },
+    "actions": {
+      "createCode": "Criar Código"
+    },
+    "tabs": {
+      "referralCode": "Código de Indicação",
+      "friends": "Amigos"
+    },
+    "table": {
+      "name": "Nome",
+      "code": "Código",
+      "link": "Link",
+      "commissionRate": "Taxa de comissão",
+      "dateCreated": "Data de criação",
+      "referrals": "Indicações"
+    }
+  },
+  "reward": {
+    "commission": {
+      "title": "Recompensas de Comissão Disponíveis",
+      "totalReceived": "Total Recebido: {{amount}}"
+    },
+    "referral": {
+      "title": "Recompensas de Indicação Disponíveis",
+      "totalReceived": "Total Recebido: {{amount}}",
+      "lockedRewards": "Recompensas Bloqueadas: {{amount}}"
+    },
+    "actions": {
+      "withdraw": "Retirar para carteira",
+      "myWallets": "Minhas Carteiras"
+    },
+    "tabs": {
+      "commission": "Comissão",
+      "referral": "Indicação",
+      "rules": "Regras",
+      "history": "Histórico"
+    },
+    "table": {
+      "username": "Nome de usuário",
+      "commissionRate": "Taxa de comissão",
+      "totalBet": "Aposta total",
+      "registrationDate": "Data de registro",
+      "totalCommission": "Comissão total",
+      "currency": "Moeda",
+      "vipLevel": "Nível VIP",
+      "code": "Código",
+      "earned": "Ganho"
+    }
+  },
+  "swapModal": {
+    "title": "Minha Carteira",
+    "walletTypes": {
+      "commission": "Recompensas de Comissão",
+      "referral": "Recompensas de Indicação"
+    },
+    "amount": "Valor",
+    "submit": "Enviar"
+  },
+  "dropMenu": {
+    "wallet": "Carteira",
+    "deposit": "Depósito",
+    "withdraw": "Saque",
+    "bonus_list": "Lista de Bônus",
+    "transactions": "Transações",
+    "bet_history": "Histórico de Apostas",
+    "vip_club": "Clube VIP",
+    "my_profile": "Meu Perfil",
+    "affiliate": "Afiliado",
+    "global_settings": "Configurações Globais",
+    "log_out": "Sair"
+  },
+  "vip": {
+  "viewLevelUpDetail": "Ver detalhes de nível superior",
+  "exclusiveVipBonus": "Bônus VIP exclusivo",
+  "discoverGamingExperience": "Descubra a experiência de jogo definitiva"
+}
+
+}

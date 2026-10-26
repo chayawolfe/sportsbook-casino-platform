@@ -1,0 +1,470 @@
+{
+  "start": "ابدأ",
+  "comingSoon": "قريبًا",
+  "your-games": "ألعابك",
+  "deposit": "إيداع",
+  "language": "اللغة",
+  "search": "بحث",
+  "wallet": "محفظة",
+  "withdraw": "سحب",
+  "transactions": "المعاملات",
+  "bet_history": "تاريخ الرهانات",
+  "vip_club": "نادي كبار الشخصيات",
+  "my_profile": "ملفي الشخصي",
+  "global_settings": "الإعدادات العامة",
+  "log_out": "تسجيل خروج",
+  "login": "تسجيل الدخول",
+  "register": "تسجيل",
+  "dark": "داكن",
+  "light": "فاتح",
+  "lobby": "الردهة",
+  "sports": "رياضات",
+  "Casino": "كازينو",
+  "Slots": "آلات القمار",
+  "Live Casino": "كازينو مباشر",
+  "Sport Book": "مراهنات رياضية",
+  "Fishing": "صيد",
+  "Poker": "بوكر",
+  "lottery": "اليانصيب",
+  "cock_fighting": "مصارعة الديوك",
+  "others": "أخرى",
+  "live_casino_premium": "كازينو مباشر بريميوم",
+  "crypto_online_casino": "كازينو عبر الإنترنت بالعملات الرقمية",
+  "help_us_improve_your_experience": "ساعدنا في تحسين تجربتك",
+  "show_more": "عرض المزيد",
+  "stay_untamed": "ابقَ متحرراً",
+  "signup&get_welcome_bonus": "سجل واحصل على مكافأة ترحيبية",
+  "exclusive_VIP_bonus": "مكافأة كبار الشخصيات الحصرية",
+  "recent_big_wins": "أحدث الانتصارات الكبيرة",
+  "all": "الكل",
+  "recommended_games": "الألعاب الموصى بها",
+  "latest_round&_race": "الجولة والسباق الأخيرة",
+  "no_items_to_display": "لا توجد عناصر للعرض",
+  "game_providers": "مزودو الألعاب",
+  "crypto": "العملات الرقمية",
+  "fiat": "العملات التقليدية",
+  "cancel": "إلغاء",
+  "submit": "إرسال",
+  "amount": "المبلغ",
+  "please_enter_a_valid_positive_number": "يرجى إدخال رقم موجب صالح",
+  "account_info": "معلومات الحساب",
+  "security": "الأمان",
+  "preferences": "التفضيلات",
+  "personal_verification": "التحقق الشخصي",
+  "profile_info": "معلومات الملف الشخصي",
+  "edit": "تعديل",
+  "contact_info": "معلومات الاتصال",
+  "add": "إضافة",
+  "connect": "اتصال",
+  "connected": "متصل",
+  "account_connections": "روابط الحساب",
+  "not_connected": "غير متصل",
+  "disconnect": "قطع الاتصال",
+  "set_password": "تعيين كلمة المرور",
+  "create_your_own_password_for_security": "قم بإنشاء كلمة مرور خاصة بك للأمان.",
+  "security_setup": "إعداد الأمان",
+  "current_password": "كلمة المرور الحالية",
+  "confirm_password": "تأكيد كلمة المرور",
+  "verify": "تحقق",
+  "sessions": "الجلسات",
+  "device": "الجهاز",
+  "location": "الموقع",
+  "ip_address": "عنوان IP",
+  "last_used": "آخر استخدام",
+  "action": "الإجراء",
+  "remove": "إزالة",
+  "e-mail_verification": "التحقق من البريد الإلكتروني",
+  "verify_your_email_address_is_valid_and_accessible_by_you.": "تحقق من أن عنوان بريدك الإلكتروني صحيح ويمكنك الوصول إليه.",
+  "phone_number": "رقم الهاتف",
+  "verify_your_phone_number_and_you_can_use_the_phone_as_your_second_login_method": "تحقق من رقم هاتفك ويمكنك استخدام الهاتف كطريقة تسجيل دخول ثانية.",
+  "verify_your_phone_number_is_valid_and_accessible_by_you.": "تحقق من أن رقم هاتفك صحيح ويمكنك الوصول إليه.",
+  "phone_verification": "التحقق من الهاتف",
+  "enter_your_new_phone_number_below_to_receive_a_verification_code.": "أدخل رقم هاتفك الجديد أدناه لتلقي رمز التحقق.",
+  "phone_number_verification": "التحقق من رقم الهاتف",
+  "email_verification": "التحقق من البريد الإلكتروني",
+  "please_enter_and_verify_your_email_below": "يرجى إدخال بريدك الإلكتروني والتحقق منه أدناه",
+  "global_setting": "الإعدادات العامة",
+  "account_preferences": "تفضيلات الحساب",
+  "view_in_currency": "عرض بالعملة",
+  "change_language": "تغيير اللغة",
+  "display_mode": "وضع العرض",
+  "privacy_preferences": "تفضيلات الخصوصية",
+  "hide_my_username_from_public_lists": "إخفاء اسم المستخدم من القوائم العامة",
+  "max_bet_alert": "تنبيه الحد الأقصى للرهان",
+  "email_notifications": "إشعارات البريد الإلكتروني",
+  "receive_deposit_successful_email": "استلام بريد إلكتروني عند إيداع ناجح",
+  "receive_withdraw_successful_email": "استلام بريد إلكتروني عند سحب ناجح",
+  "marketing": "التسويق",
+  "receive_marketing_promotions_by_email": "استلام العروض الترويجية التسويقية عبر البريد الإلكتروني",
+  "select_the_desired_currency_to_display. the_currencies_will_be_shown_in_approximated_values": "اختر العملة المرغوبة للعرض. سيتم عرض العملات بقيم تقريبية.",
+  "basic_verification": "التحقق الأساسي",
+  "total_balance": "الرصيد الإجمالي",
+  "deposit_balance": "رصيد الإيداع",
+  "bonus_balance": "رصيد المكافأة",
+  "balance": "الرصيد",
+  "transaction": "المعاملة",
+  "select_network": "اختر الشبكة",
+  "select_currency": "اختر العملة",
+  "currency": "العملة",
+  "no_results_found": "لم يتم العثور على نتائج",
+  "how_to_deposit_crypto?": "كيف تقوم بإيداع العملات الرقمية؟",
+  "copy_address": "نسخ العنوان",
+  "signUpGetUpTo": "سجل واحصل على حتى",
+  "inCasinoOrSports": "في الكازينو أو الرياضات",
+  "joinNow": "انضم الآن",
+  "casino": "كازينو",
+  "latestBet": "أحدث رهان",
+  "highRoller": "اللاعب الكبير",
+  "wagerContest": "مسابقة الرهانات",
+  "player": "لاعب",
+  "betAmount": "مبلغ الرهان",
+  "multiplier": "المضاعف",
+  "profit": "الربح",
+  "hidden": "مخفي",
+  "bonus_list": "قائمة المكافآت",
+  "wallet_address": "عنوان المحفظة",
+  "fiat_currency": "عملة نقدية",
+  "token_type": "نوع الرمز",
+  "payout_method": "طريقة الدفع",
+  "created_at": "تاريخ الإنشاء",
+  "status": "الحالة",
+  "duration": "المدة",
+  "pending": "قيد الانتظار",
+  "success": "ناجح",
+  "payout": "الدفع",
+  "declined": "مرفوض",
+  "failed": "فشل",
+  "Past 60 days": "الخمسون يومًا الماضية",
+  "Past 30 days": "الثلاثون يومًا الماضية",
+  "Past 7 days": "السبعة أيام الماضية",
+  "Past 1 day": "اليوم الماضي",
+  "Custom": "مخصص",
+  "type": "النوع",
+  "time": "الوقت",
+  "fiat_deposit_issues_or_disputes": "مشاكل أو نزاعات إيداع العملة النقدية",
+  "win": "فوز",
+  "bet": "رهان",
+  "menu": "القائمة",
+  "explore": "استكشاف",
+  "helpCenter": "مركز المساعدة",
+  "bonus": {
+    "title": "مكافأة",
+    "claim": "المطالبة",
+    "table": {
+      "name": "اسم المكافأة",
+      "amount": "المبلغ",
+      "goal": "الهدف",
+      "process": "العملية",
+      "status": "الحالة",
+      "type": "النوع",
+      "expiryDate": "تاريخ الانتهاء",
+      "action": "الإجراء"
+    }
+  },
+  "footer": {
+    "aboutBetthrob": "عن Betthrob",
+    "termsPolicy": "الشروط والسياسة",
+    "copyright": "© 2025 Betthrob. جميع الحقوق محفوظة. لا يجوز إعادة إنتاج أي جزء من هذا الموقع أو محتواه أو توزيعه أو نقله بأي شكل أو بأي وسيلة دون إذن خطي مسبق من Betthrob، إلا إذا سمح القانون المعمول به بذلك.",
+    "description": "Betthrob هي منصة مقامرة عبر الإنترنت تركز على المراهنات الرياضية وألعاب الكازينو، وتوفر للاعبين تجربة ترفيهية مثيرة. تقدم المنصة مجموعة متنوعة من خيارات المراهنة، تغطي رياضات مثل كرة القدم وكرة السلة والتنس، كما توفر مجموعة غنية من ألعاب الكازينو مثل السلوت، البوكر، والروليت لتناسب تفضيلات اللاعبين المختلفة. تركز المنصة على تجربة المستخدم، وتدعم عدة طرق دفع، وتوفر دعمًا للعملاء على مدار الساعة لضمان خدمة مقامرة آمنة ومريحة في جميع الأوقات."
+  },
+  "auth": {
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "emailPhone": "البريد الإلكتروني / رقم الهاتف",
+    "username": "اسم المستخدم",
+    "password": "كلمة المرور",
+    "selectCurrency": "اختر العملة",
+    "agreeTerms": "أوافق على اتفاقية المستخدم وأؤكد أنني لا أبلغ أقل من 18 عامًا",
+    "haveAccount": "هل لديك حساب بالفعل؟",
+    "emailPhoneRequired": "مطلوب البريد الإلكتروني / الهاتف",
+    "usernameRequired": "اسم المستخدم مطلوب",
+    "passwordRequired": "كلمة المرور مطلوبة",
+    "currencyRequired": "العملة مطلوبة",
+    "aggrementRequired": "يجب الموافقة على الشروط",
+    "signInWith": "تسجيل الدخول مباشرة باستخدام",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "newToBethrob": "جديد على BetThrob؟",
+    "createAccount": "إنشاء حساب"
+  },
+  "payment": {
+    "minBRL": "الحد الأدنى للمبلغ هو 100 ريال برازيلي",
+    "deposit": "إيداع",
+    "crypto": "عملات رقمية",
+    "fiat": "عملة تقليدية",
+    "selectNetwork": "اختر الشبكة",
+    "selectCurrency": "اختر العملة",
+    "noResultsFound": "لم يتم العثور على نتائج",
+    "enterValidNumber": "يرجى إدخال رقم موجب صالح",
+    "copyAddress": "نسخ العنوان",
+    "searchToken": "البحث عن الرمز",
+    "wallet": "المحفظة"
+  },
+  "common": {
+    "amount": "المبلغ",
+    "cancel": "إلغاء",
+    "submit": "إرسال",
+    "currency": "العملة",
+    "status": "الحالة",
+    "date": "التاريخ"
+  },
+  "game": {
+    "title": "لعبة",
+    "playGame": "العب اللعبة"
+  },
+  "freeSpin": {
+    "luckySpin": "الدوران المحظوظ",
+    "title": {
+      "nextSpin": "الدورة التالية",
+      "spinToWin": "ادُر للفوز"
+    },
+    "bonus": {
+      "title": "مكافأة الدوران",
+      "total": "إجمالي مكافآت الدوران",
+      "win": "الفوز",
+      "username": "اسم المستخدم"
+    },
+    "table": {
+      "username": "اسم المستخدم",
+      "time": "الوقت",
+      "prize": "الجائزة",
+      "status": "الحالة"
+    },
+    "status": {
+      "waiting": "في الانتظار",
+      "claimed": "تم الاستلام"
+    }
+  },
+  "dashboard": {
+    "invite": {
+      "title": "ادعُ صديقًا لتحصل على",
+      "referral": {
+        "rewards": "مكافآت الإحالة",
+        "commission": "مكافآت العمولة"
+      },
+      "terms": {
+        "title": "أحكام وشروط الإحالة",
+        "description": "احصل على عمولة 25% من رهاناتهم. تمتع بعمولات ثابتة سواء فازوا أو خسروا في الكازينو والمراهنات الرياضية. ابدأ الربح الآن!"
+      }
+    },
+    "referral": {
+      "link": "رابط الإحالة",
+      "code": "رمز الإحالة",
+      "share": "شارك عبر السوشيال -",
+      "terms": {
+        "title": "أحكام وشروط الإحالة",
+        "description": "احصل على عمولة 25% من رهاناتهم. تمتع بعمولات ثابتة سواء فازوا أو خسروا في الكازينو والمراهنات الرياضية. ابدأ الربح الآن!"
+      }
+    },
+    "stats": {
+      "totalReward": "إجمالي المكافآت",
+      "totalFriends": "إجمالي الأصدقاء",
+      "referralRewards": "مكافآت الإحالة",
+      "commissionRewards": "مكافآت العمولة"
+    },
+    "activities": {
+      "title": "أنشطة المكافآت",
+      "table": {
+        "code": "الرمز",
+        "totalReferrals": "إجمالي الإحالات",
+        "totalRewardAmount": "إجمالي قيمة المكافآت",
+        "totalRewards": "إجمالي المكافآت",
+        "visitCount": "عدد الزيارات",
+        "description": "الوصف"
+      }
+    },
+    "liveRewards": {
+      "title": "المكافآت المباشرة",
+      "totalToDate": "إجمالي المكافآت المُرسلة حتى الآن"
+    },
+    "affiliate": {
+      "title": "تعرف على المزيد حول",
+      "program": "برنامج الإحالة",
+      "description": "إذا كان لديك جمهور ومتابعون كثر، لدينا شروط خاصة لتخصص برنامج الإحالة لك! إذا استطعت دعوة لاعبين ووصلت رهاناتهم إلى مليار دولار فأكثر، ستحصل على كازينو مخصص خاص بك! يمكنك إعداد موقع كازينو باسم نطاقك وتصميمك. للمزيد من التفاصيل، يرجى التواصل معنا.",
+      "email": {
+        "title": "أدخل بريدك الإلكتروني",
+        "placeholder": "Mail@mail.com"
+      },
+      "setup": {
+        "highlight": "يمكنك إعداد موقع كازينو",
+        "domain": "بمجالك ونمط تصميمك.",
+        "contact": "للمزيد من التفاصيل، يرجى التواصل معنا"
+      }
+    },
+    "faq": {
+      "title": "الأسئلة المتكررة",
+      "items": {
+        "system": {
+          "title": "كيف يعمل نظام الإحالة؟",
+          "content": "عند مشاركة رابط الإحالة مع أي صديق أو قريب أو الإعلان عنه وتسجيل لاعب عبره، يصبح هذا اللاعب ضمن إحالاتك، وستحصل على عمولات ومكافآت إضافية عند لعبهم في {{brand}}."
+        },
+        "earnings": {
+          "title": "كم يمكنني الربح من إحالاتي؟",
+          "content": "عند مشاركة رابط الإحالة مع أي صديق أو قريب أو الإعلان عنه وتسجيل لاعب عبره، يصبح هذا اللاعب ضمن إحالاتك، وستحصل على عمولات ومكافآت إضافية عند لعبهم في {{brand}}."
+        },
+        "usdReward": {
+          "title": "ما هي مكافأة الدولار وكيف تعمل؟",
+          "content": "عند مشاركة رابط الإحالة مع أي صديق أو قريب أو الإعلان عنه وتسجيل لاعب عبره، يصبح هذا اللاعب ضمن إحالاتك، وستحصل على عمولات ومكافآت إضافية عند لعبهم في {{brand}}."
+        },
+        "banners": {
+          "title": "هل هناك لافتات للإعلان يمكنني استخدامها؟",
+          "content": "عند مشاركة رابط الإحالة مع أي صديق أو قريب أو الإعلان عنه وتسجيل لاعب عبره، يصبح هذا اللاعب ضمن إحالاتك، وستحصل على عمولات ومكافآت إضافية عند لعبهم في {{brand}}."
+        },
+        "audience": {
+          "title": "لدي جمهور كبير، كيف أحصل على عروض خاصة؟",
+          "content": "عند مشاركة رابط الإحالة مع أي صديق أو قريب أو الإعلان عنه وتسجيل لاعب عبره، يصبح هذا اللاعب ضمن إحالاتك، وستحصل على عمولات ومكافآت إضافية عند لعبهم في {{brand}}."
+        },
+        "links": {
+          "title": "كم عدد روابط الإحالة التي يمكنني إنشاؤها إن كان لدي مواقع/حسابات متعددة؟",
+          "content": "عند مشاركة رابط الإحالة مع أي صديق أو قريب أو الإعلان عنه وتسجيل لاعب عبره، يصبح هذا اللاعب ضمن إحالاتك، وستحصل على عمولات ومكافآت إضافية عند لعبهم في {{brand}}."
+        },
+        "data": {
+          "title": "هل يمكنني رؤية بيانات إحالاتي؟",
+          "content": "عند مشاركة رابط الإحالة مع أي صديق أو قريب أو الإعلان عنه وتسجيل لاعب عبره، يصبح هذا اللاعب ضمن إحالاتك، وستحصل على عمولات ومكافآت إضافية عند لعبهم في {{brand}}."
+        },
+        "tips": {
+          "title": "هل يمكنني إرسال إكراميات أو مكافآت لإحالاتي؟",
+          "content": "عند مشاركة رابط الإحالة مع أي صديق أو قريب أو الإعلان عنه وتسجيل لاعب عبره، يصبح هذا اللاعب ضمن إحالاتك، وستحصل على عمولات ومكافآت إضافية عند لعبهم في {{brand}}."
+        }
+      }
+    }
+  },
+  "download": {
+    "banner": {
+      "title": "حزمة اللافتات",
+      "description": "حزمة متعددة اللغات تشمل الفعاليات، لافتات متحركة، والمزيد...",
+      "button": "تحميل (200 MB)"
+    },
+    "graphics": {
+      "title": "حزمة الرسومات",
+      "description": "مكونات تصميم الويب بما في ذلك Coco، الشعار، عناصر الألعاب، وموارد واجهة المستخدم",
+      "button": "تحميل (21.3 MB)"
+    }
+  },
+  "rateRule": {
+    "commission": {
+      "title": "معدل مكافأة العمولة",
+      "casino": {
+        "title": "كازينو",
+        "formula": "رهان × 1 % × معدل العمولة × 28 %"
+      },
+      "thirdParty": {
+        "title": "ماكينات طرف ثالث، كازينو مباشر",
+        "formula": "رهان × 1 % × معدل العمولة × 60 %"
+      },
+      "sports": {
+        "title": "جميع الرياضات",
+        "formula": "رهان × 1 % × معدل العمولة × 100 %"
+      }
+    },
+    "calculator": {
+      "title": "حاسبة العمولة",
+      "currency": "USD",
+      "casino": "كازينو",
+      "commissionRate": "معدل العمولة",
+      "game": "اللعبة",
+      "originalGames": "ألعاب أصلية"
+    },
+    "referral": {
+      "title": "كيف تحصل على مكافأة الإحالة",
+      "steps": {
+        "share": {
+          "title": "شارك مع الأصدقاء",
+          "content": "شارك رابط أو رمز الإحالة مع أصدقائك"
+        },
+        "get": {
+          "title": "احصل على ${{amount}}",
+          "content": "سيتم قفل مكافآتك مؤقتًا"
+        },
+        "level": {
+          "title": "ارتقِ المستوى واستلم",
+          "content": "سيقوم مستوى VIP لصديقك بفتح مكافآتك"
+        }
+      },
+      "table": {
+        "level": "مستوى الصديق",
+        "wager": "إجمالي الرهان",
+        "unlock": "قيمة الفتح"
+      }
+    }
+  },
+  "referralCodes": {
+    "stats": {
+      "codes": "رمز إحالة منشأ",
+      "friends": "أصدقاء"
+    },
+    "actions": {
+      "createCode": "إنشاء رمز"
+    },
+    "tabs": {
+      "referralCode": "رمز الإحالة",
+      "friends": "أصدقاء"
+    },
+    "table": {
+      "name": "الاسم",
+      "code": "الرمز",
+      "link": "الرابط",
+      "commissionRate": "معدل العمولة",
+      "dateCreated": "تاريخ الإنشاء",
+      "referrals": "الإحالات"
+    }
+  },
+  "reward": {
+    "commission": {
+      "title": "مكافآت العمولة المتاحة",
+      "totalReceived": "الإجمالي المستلم: {{amount}}"
+    },
+    "referral": {
+      "title": "مكافآت الإحالة المتاحة",
+      "totalReceived": "الإجمالي المستلم: {{amount}}",
+      "lockedRewards": "مكافآت مقفلة: {{amount}}"
+    },
+    "actions": {
+      "withdraw": "سحب إلى المحفظة",
+      "myWallets": "محافظي"
+    },
+    "tabs": {
+      "commission": "عمولة",
+      "referral": "إحالة",
+      "rules": "القواعد",
+      "history": "السجل"
+    },
+    "table": {
+      "username": "اسم المستخدم",
+      "commissionRate": "معدل العمولة",
+      "totalBet": "إجمالي الرهانات",
+      "registrationDate": "تاريخ التسجيل",
+      "totalCommission": "إجمالي العمولة",
+      "currency": "العملة",
+      "vipLevel": "مستوى كبار الشخصيات",
+      "code": "الرمز",
+      "earned": "المكتسب"
+    }
+  },
+  "swapModal": {
+    "title": "محفظتي",
+    "walletTypes": {
+      "commission": "مكافآت العمولة",
+      "referral": "مكافآت الإحالة"
+    },
+    "amount": "المبلغ",
+    "submit": "إرسال"
+  },
+  "dropMenu": {
+    "wallet": "المحفظة",
+    "deposit": "إيداع",
+    "withdraw": "سحب",
+    "bonus_list": "قائمة المكافآت",
+    "transactions": "المعاملات",
+    "bet_history": "سجل الرهانات",
+    "vip_club": "نادي كبار الشخصيات",
+    "my_profile": "ملفي الشخصي",
+    "affiliate": "شريك",
+    "global_settings": "الإعدادات العامة",
+    "log_out": "تسجيل الخروج"
+  },
+  "vip": {
+  "viewLevelUpDetail": "عرض تفاصيل الترقية",
+  "exclusiveVipBonus": "مكافأة VIP حصرية",
+  "discoverGamingExperience": "اكتشف تجربة اللعب المطلقة"
+}
+}
